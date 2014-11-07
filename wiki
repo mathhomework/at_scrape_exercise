@@ -1,0 +1,2238 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.20" />
+<meta name="keywords" content="Adventure Time Wiki,adventuretimewithfinnandjake,Category:Characters,Finn,Jake,Ice King,Princess Bubblegum,Lady Rainicorn,Marceline,Lumpy Space Princess,BMO,Abracadaniel,Ancient Sleeping Magi of Life Giving" />
+<meta name="description" content="v • d • eMain characters Finn Jake Ice King Princess Bubblegum Lady Rainicorn Marceline Lumpy..." />
+<meta name="google-site-verification" content="8Dzg4Ou0Xll46XcC8Q-KjmXduCFdfmabhr5wbyNIwms" />
+<link rel="canonical" href="http://adventuretime.wikia.com/wiki/Category:Characters" />
+<link rel="image_src" href="http://img3.wikia.nocookie.net/__cb20110915231820/adventuretimewithfinnandjake/images/thumb/8/83/1AT_ice_king_character.png/100px-0%2C293%2C0%2C293-1AT_ice_king_character.png" />
+<link rel="apple-touch-icon" href="http://img4.wikia.nocookie.net/__cb26/adventuretimewithfinnandjake/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://img4.wikia.nocookie.net/__cb20120516031341/adventuretimewithfinnandjake/images/6/64/Favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Adventure Time Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://adventuretime.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://www.wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Adventure Time Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Characters - The Adventure Time Wiki. Mathematical!</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1415298937/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb26%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/skins/oasis/css/oasis.scss,extensions/wikia/CategoryGalleries/css/CategoryGalleries.scss,extensions/wikia/CategoryGalleries/css/CategoryGalleries.IE.scss,skins/oasis/css/core/AccountNavigation.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://adventuretime.wikia.com/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/ext.categoryTree.css|ext.wikihiero" /><link rel="stylesheet" href="http://adventuretime.wikia.com/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>			/* Add a pretty logo to Facebook links */
+			.mw-fblink {
+				background: url(http://static.ak.fbcdn.net/images/icons/favicon.gif) top left no-repeat !important;
+				padding-left: 17px !important;
+			}</style><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: adventuretimewithfinnandjake:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgJqueryUrl=["http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"],
+launchSpotlightABTest=false,
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Enter the chat!","chat-start-a-chat":"Open the chat!","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits \x3cimg src=\"http://images2.wikia.nocookie.net/runescape/images/2/21/1x1-pixel.png\" onload=\"if ($(this).is(\'header img\')\x26\x26$(\'script[src*=\\\'Chat.js/load.js\\\']\').length==0) {var b=document.createElement(\'script\');b.setAttribute(\'src\',\'http://runescape.wikia.com/index.php?title=MediaWiki:Chat.js/load.js\x26action=raw\x26ctype=text/javascript\');b.setAttribute(\'type\',\'text/javascript\');document.getElementsByTagName(\'head\')[0].appendChild(b);}\" /\x3e","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"pageType":"all_ads","showAds":true,"useDartForSlotsBelowTheFold":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"kruxCategoryId":"Hi0kPhMT","pageArticleId":2322,"pageIsArticle":true,"pageName":"Category:Characters","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=18-24;age=18-34;age=teen;age=kids;gnre=cartoon;gnre=comedy;media=tv;tv=cn","wikiDbName":"adventuretimewithfinnandjake","wikiDirectedAtChildren":true,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":[],"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgEnableOpenXSPC=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[129,100024,100043,100044,100056,100057,100058,100059,100428,100455],
+wgWikiFactoryTagNames=["entertainment","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1415298937",
+wgDBname="adventuretimewithfinnandjake",
+wgCityId="24357",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2322,
+wgCategories=["Content"],
+wgPageName="Category:Characters",
+wikiaPageType="article",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1415298937",
+wgTransactionContext={"type":"page/category","env":"prod","wiki":"adventuretimewithfinnandjake","entry_point":"page","namespace":14,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgBuckyConfig={"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000,"protocol":2},
+wgGlobalSearchUrl="http://www.wikia.com/Special:Search";
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1415298937&amp;c=24357&amp;lc=en&amp;lid=75&amp;x=adventuretimewithfinnandjake&amp;y=c1&amp;u=0&amp;a=2322&amp;s=oasis&amp;n=14&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1415298937&amp;c=24357&amp;lc=en&amp;lid=75&amp;x=adventuretimewithfinnandjake&amp;y=c1&amp;u=0&amp;a=2322&amp;s=oasis&amp;n=14" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1415298937/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Adventure Time Wiki" />
+	<meta property="og:title" content="Characters" />
+	<meta property="og:description" content="v • d • eMain characters Finn Jake Ice King Princess Bubblegum Lady Rainicorn Marceline Lumpy Space Princess BMO v • d • eMain characters Finn Jake Ice King Princess Bubblegum Lady Rainicorn Marceline Lumpy Space Princess BMO Finn Jake Ice King Princess Bubblegum Lady Rainicorn Marceline Lumpy Space Princess BMO v • d • eOther charactersRecurring Abracadaniel • Ancient Sleeping Magi of Life Giving • Banana Man • Bears • Billy • Bufo • Candy Heart • Candy People • Chet • Chocoberry • Choose..." />
+	<meta property="og:url" content="http://adventuretime.wikia.com/wiki/Category:Characters" />
+	<meta property="og:image" content="http://img1.wikia.nocookie.net/__cb20130913153434/adventuretimewithfinnandjake/images/e/eb/S1e10_Finnnbabyhappy.png" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-14 ns-subject page-Category_Characters  TOC_hide wikinav2 skin-oasis background-fixed background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fadventuretime.wikia.com%2Fwiki%2FCategory%3ACharacters%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonDirectTargetedBuy, page_view -->
+		<script>
+			require(['wikia.geo', 'wikia.instantGlobals'], function (geo, globals) {
+				if (globals.wgAmazonDirectTargetedBuyCountries && globals.wgAmazonDirectTargetedBuyCountries.indexOf(geo.getCountryCode()) > -1) {
+					var aax_src='3006',
+						aax_url = encodeURIComponent(document.location),
+						s = document.createElement('script'),
+						insertLoc = document.getElementsByTagName('script')[0];
+
+					try { aax_url = encodeURIComponent("" + window.top.location); } catch(e) {}
+
+					s.type = 'text/javascript';
+					s.async = true;
+					s.src = '//aax.amazon-adsystem.com/e/dtb/bid?src=' + aax_src + '&u=' + aax_url + "&cb=" + Math.round(Math.random()*10000000);
+
+					insertLoc.parentNode.insertBefore(s, insertLoc);
+				}
+			});
+		</script><!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	rp_config = {"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["HOME_TOP_RIGHT_BOXAD","TOP_RIGHT_BOXAD","TOP_INCONTENT_BOXAD","CORP_TOP_RIGHT_BOXAD"]};
+	// Configuration through globals:
+	oz_async = true;
+	oz_cached_only = false;
+	oz_api = rp_config.oz_api || "valuation";
+	oz_ad_server = rp_config.oz_ad_server || "dart";
+	oz_site = rp_config.oz_site;
+	oz_zone = rp_config.oz_zone;
+	oz_ad_slot_size = rp_config.oz_ad_slot_size;
+
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call();
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<header id="WikiaHeader" class="WikiaHeader">
+	<div class="wikia-header-mask">
+		<div class="page-width-container">
+						<nav>
+								<h1>Wikia Navigation</h1>
+								<ul>
+					<li class="WikiaLogo">
+						<a href="http://www.wikia.com/Wikia" rel="nofollow"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite logo" height="23" width="91" alt="Wikia"></a>
+					</li>
+					<li class="start-a-wiki">
+						<a href="http://www.wikia.com/Special:CreateNewWiki" class="wikia-button">Start a wiki</a>
+					</li>
+					<li>
+						<ul id="GlobalNavigation" class="GlobalNavigation" data-hash="388f3a5f2023bccaebd5cd042c49f69b">
+																																			<li class="topNav Video_Games video-games-vertical-color" data-index="1">
+											<a href="http://gameshub.wikia.com/wiki/Games_Hub">Video Games<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron" height="0" width="0"></a>
+											<ul class="subnav"></ul>
+										</li>
+																												<li class="topNav Entertainment entertainment-vertical-color" data-index="26">
+											<a href="http://movieshub.wikia.com/wiki/Movies_Hub">Entertainment<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron" height="0" width="0"></a>
+											<ul class="subnav"></ul>
+										</li>
+																												<li class="topNav Lifestyle lifestyle-vertical-color" data-index="51">
+											<a href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub">Lifestyle<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron" height="0" width="0"></a>
+											<ul class="subnav"></ul>
+										</li>
+																					</ul>
+					</li>
+									</ul>
+			</nav>
+			<ul id="AccountNavigation" class="AccountNavigation">
+
+	
+	
+	<li>
+		<a data-id="login" href="/wiki/Special:UserLogin?returnto=Category:Characters" rel="nofollow" class="ajaxLogin" accesskey="o">Log in<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron" width="0" height="0" /></a>		<div id="UserLoginDropdown" class="UserLoginDropdown subnav">
+
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Category:Characters">
+											
+									<input type="hidden" name="returntoquery" value="title=Category%3ACharacters">
+											
+															<div class="input-group required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" name="username" tabindex="1">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group password-input required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="password-input" name="password" tabindex="2">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div></div>
+	</li>
+	<li>
+		<a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a>	</li>
+
+	
+</ul>
+					</div>
+	</div>
+</header>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["TOP_LEADERBOARD",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["INVISIBLE_SKIN",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+		<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Adventure_Time_with_Finn_and_Jake_Wiki">
+					<img src="http://img4.wikia.nocookie.net/__cb26/adventuretimewithfinnandjake/images/8/89/Wiki-wordmark.png" alt="Adventure Time with Finn and Jake Wiki"  width="250" height="65" >
+			</a>
+</h1>
+        <div class="WikiHeaderSearch">
+        
+<form id="HeaderWikiaSearch" class="WikiaSearch" action="http://adventuretime.wikia.com/wiki/Special:Search" method="get">
+	<input type="text" name="search" placeholder="Search this wiki" autocomplete="off" accesskey="f" value="">
+	<input type="hidden" name="fulltext" value="Search">
+			<input type="hidden" name="ns0" value="1">
+			<input type="hidden" name="ns14" value="1">
+		<input type="submit">
+	<button class="wikia-button"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite search" height="17" width="21"></button>
+</form>
+    </div>
+        <nav class="WikiNav">
+    	        <h1>Adventure Time with Finn and Jake Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Maps" data-canonical="maps">Maps</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Main_Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline">Marceline</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finn">Finn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Bubblegum">Princess Bubblegum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Flame_Princess">Flame Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ice_King">Ice King</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake">Jake</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_Princess">Lumpy Space Princess</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Princesses">Princesses<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Bubblegum">Princess Bubblegum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Flame_Princess">Flame Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_Princess">Lumpy Space Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghost_Princess_(character)">Ghost Princess (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Embryo_Princess">Embryo Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Princess_Princess">Princess Princess Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jungle_Princess">Jungle Princess</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Minor_Characters">Minor Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Snail">Snail</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Strong_(character)">Susan Strong (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghost_Princess_(character)">Ghost Princess (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Embryo_Princess">Embryo Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jermaine">Jermaine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Princess_Princess">Princess Princess Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jungle_Princess">Jungle Princess</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Species">Species<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Candy_People">Candy People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Humans">Humans</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hyooman_tribe">Hyooman tribe</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lub_Glubs">Lub Glubs</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_People">Lumpy Space People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Penguins">Penguins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Why-wolves">Why-wolves</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_episodes">List</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_1">Season 1<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slumber_Party_Panic">Slumber Party Panic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Evicted!">Evicted!</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_is_Life%3F">What is Life?</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Henchman">Henchman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Enchiridion!_(episode)">The Enchiridion! (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/His_Hero">His Hero</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Duke">The Duke</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_2">Season 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mortal_Recoil">Mortal Recoil</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/It_Came_from_the_Nightosphere">It Came from the Nightosphere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Go_With_Me">Go With Me</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Heat_Signature_(episode)">Heat Signature (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Real_You">The Real You</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Strong_(episode)">Susan Strong (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mortal_Folly">Mortal Folly</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_3">Season 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fionna_and_Cake">Fionna and Cake</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Incendium">Incendium</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_Was_Missing">What Was Missing</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline%27s_Closet">Marceline's Closet</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Memory_of_a_Memory">Memory of a Memory</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dad%27s_Dungeon">Dad's Dungeon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Creeps">The Creeps</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_4">Season 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hot_to_the_Touch">Hot to the Touch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/You_Made_Me">You Made Me</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Return_to_the_Nightosphere">Return to the Nightosphere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Burning_Low">Burning Low</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daddy%27s_Little_Monster">Daddy's Little Monster</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Five_Short_Graybles">Five Short Graybles</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hug_Wolf">Hug Wolf</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_5">Season 5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bad_Little_Boy">Bad Little Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake_the_Dog_(episode)">Jake the Dog (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/All_the_Little_People">All the Little People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wizards_Only,_Fools">Wizards Only, Fools</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake_the_Dad">Jake the Dad</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davey">Davey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Simon_%26_Marcy">Simon & Marcy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_6">Season 6<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_II">James II</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Escape_from_the_Citadel">Escape from the Citadel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wake_Up">Wake Up</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Food_Chain">Food Chain</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Tower">The Tower</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sad_Face">Sad Face</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Breezy">Breezy</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Content">Misc</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Places">Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Land_of_Ooo">Land of Ooo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fire_Kingdom">Fire Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_Fort">Tree Fort</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Candy_Kingdom">Candy Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nightosphere_(location)">Nightosphere (location)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ice_Kingdom">Ice Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline%27s_house">Marceline's house</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Objects">Objects<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finn%27s_swords">Finn's swords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finn%27s_hat">Finn's hat</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Enchiridion_(book)">The Enchiridion (book)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Demon_Blood_Sword">Demon Blood Sword</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hambo">Hambo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ax_bass">Ax bass</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Card_Wars_(game)">Card Wars (game)</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Music">Music<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Theme_Song">Adventure Time Theme Song</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fry_Song">Fry Song</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/I%27m_Just_Your_Problem">I'm Just Your Problem</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Puncha_yo_Buns">Puncha yo Buns</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/My_Best_Friends_in_the_World">My Best Friends in the World</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Ending_Theme">Adventure Time Ending Theme</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Hunting_Song">House Hunting Song</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Events">Events<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mushroom_War">Mushroom War</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rainicorn-Dog_Wars">Rainicorn-Dog Wars</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cloud_Hunt">Cloud Hunt</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Premonition_dream">Premonition dream</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wizard_Battle_(event)">Wizard Battle (event)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cameladabalawabapp">Cameladabalawabapp</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Drop_Ball">Drop Ball</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Crew">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natasha_Allegri">Natasha Allegri</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Niki_Yang">Niki Yang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rebecca_Sugar">Rebecca Sugar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adam_Muto">Adam Muto</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Phil_Rynda">Phil Rynda</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steve_Little">Steve Little</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Patrick_McHale">Patrick McHale</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Voice_Actors">Voice Actors<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Olivia_Olson">Olivia Olson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jeremy_Shada">Jeremy Shada</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Niki_Yang">Niki Yang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Zack_Shada">Zack Shada</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/John_DiMaggio">John DiMaggio</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hynden_Walch">Hynden Walch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jessica_DiCicco">Jessica DiCicco</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Real-World_Objects">Other media<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/DVD_Releases">DVD Releases</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Toys">Adventure Time Toys</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_(comic)">Adventure Time (comic)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/References_in_other_media">References in other media</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Real_world_games">Video games</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Adventure_Time_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:User_Rights">Admins<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:User_Rights">List of Admins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Nominations_for_Rights">Nominations for rights</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Community_messages">Community messages</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:RecentChanges">Recent changes<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:RecentChanges">Recent changes</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Rules">Rules<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Rules">Rules</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Manual_of_Style">Manual of Style</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Code_of_Conduct">Code of Conduct</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Sand_Kingdom">Sandbox</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:FAQ%27S">FAQ's</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+			<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+				<header id="WikiaPageHeader" class="WikiaPageHeader">
+    <h1>Characters</h1>
+
+	<nav class="wikia-menu-button" >
+	<a   href="/wiki/Category:Characters?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Category:Characters?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Category_talk:Characters" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">42</span></a>
+        <div class="tally">
+			<em>2,300</em><span>pages on<br /> this wiki</span>        </div>
+		        <h2>Category page</h2>
+		</header>
+
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+					<!-- BEGIN SLOTNAME: TOP_INCONTENT_BOXAD -->
+<div id="TOP_INCONTENT_BOXAD" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["TOP_INCONTENT_BOXAD",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_INCONTENT_BOXAD -->
+					</div>
+
+					
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="clear:both"></div>
+<table class="navbox" cellspacing="0" style=";color:black;background-color:#BCD9E3; border:1px solid #1A5B70; margin-left:auto; margin-right:auto; width:100%;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;"><tr><th style="background-color:#1478BA;;color:white;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;background-color:#1478BA;;color:white;;border:none;; font-size:xx-small;"><a href="/wiki/Template:CharacterNav" title="Template:CharacterNav"><span title="View this template" style="background-color:#1478BA;;color:white;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/wiki/Template_talk:CharacterNav" title="Template talk:CharacterNav"><span title="Discuss this template" style="background-color:#1478BA;;color:white;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a  class="text" href="http://adventuretime.wikia.com/wiki/Template:CharacterNav?action=edit"><span title="Edit this template" style="background-color:#1478BA;;color:white;;border:none;;">e</span></a></div></div><span class="" style="font-size:110%;"><strong class="selflink"><span style="color:white;">Main characters</span></strong></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<center>
+<table cellpadding="0" cellspacing="0" style="width: 100%;">
+<tr style="text-align: center;"><td>
+<p><a href="/wiki/Finn" 	class="image image-thumbnail link-internal" 	 title="Finn"  	 	><img src="http://img1.wikia.nocookie.net/__cb20110821082709/adventuretimewithfinnandjake/images/thumb/4/4f/Pen.png/56px-Pen.png" 	 alt="Pen"  	class="" 	 	data-image-key="Pen.png" 	data-image-name="Pen.png" 	 	 width="56"  	 height="91"  	 	 	 	></a>
+</p>
+</td><td>
+<p><a href="/wiki/Jake" 	class="image image-thumbnail link-internal" 	 title="Jake"  	 	><img src="http://img1.wikia.nocookie.net/__cb20111004203534/adventuretimewithfinnandjake/images/thumb/b/b3/Jake.png/47px-Jake.png" 	 alt="Jake"  	class="" 	 	data-image-key="Jake.png" 	data-image-name="Jake.png" 	 	 width="47"  	 height="73"  	 	 	 	></a>
+</p>
+</td><td>
+<p><a href="/wiki/Ice_King" 	class="image image-thumbnail link-internal" 	 title="Ice King"  	 	><img src="http://img3.wikia.nocookie.net/__cb20110915231820/adventuretimewithfinnandjake/images/thumb/8/83/1AT_ice_king_character.png/75px-1AT_ice_king_character.png" 	 alt="1AT ice king character"  	class="" 	 	data-image-key="1AT_ice_king_character.png" 	data-image-name="1AT ice king character.png" 	 	 width="75"  	 height="118"  	 	 	 	></a>
+</p>
+</td><td>
+<p><a href="/wiki/Princess_Bubblegum" 	class="image image-thumbnail link-internal" 	 title="Princess Bubblegum"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="1ATPrincessBubblegumDance"  	class="lzy lzyPlcHld " 	 	data-image-key="1ATPrincessBubblegumDance.png" 	data-image-name="1ATPrincessBubblegumDance.png" 	 data-src="http://img1.wikia.nocookie.net/__cb20110411212250/adventuretimewithfinnandjake/images/thumb/a/a8/1ATPrincessBubblegumDance.png/68px-1ATPrincessBubblegumDance.png"  	 width="68"  	 height="98"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img1.wikia.nocookie.net/__cb20110411212250/adventuretimewithfinnandjake/images/thumb/a/a8/1ATPrincessBubblegumDance.png/68px-1ATPrincessBubblegumDance.png" 	 alt="1ATPrincessBubblegumDance"  	class="" 	 	data-image-key="1ATPrincessBubblegumDance.png" 	data-image-name="1ATPrincessBubblegumDance.png" 	 	 width="68"  	 height="98"  	 	 	 	></noscript></a>
+</p>
+</td><td>
+<p><a href="/wiki/Lady_Rainicorn" 	class="image image-thumbnail link-internal" 	 title="Lady Rainicorn"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="1ATLadyRainicornLook"  	class="lzy lzyPlcHld " 	 	data-image-key="1ATLadyRainicornLook.png" 	data-image-name="1ATLadyRainicornLook.png" 	 data-src="http://img2.wikia.nocookie.net/__cb20111213075543/adventuretimewithfinnandjake/images/thumb/a/ad/1ATLadyRainicornLook.png/60px-1ATLadyRainicornLook.png"  	 width="60"  	 height="95"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img2.wikia.nocookie.net/__cb20111213075543/adventuretimewithfinnandjake/images/thumb/a/ad/1ATLadyRainicornLook.png/60px-1ATLadyRainicornLook.png" 	 alt="1ATLadyRainicornLook"  	class="" 	 	data-image-key="1ATLadyRainicornLook.png" 	data-image-name="1ATLadyRainicornLook.png" 	 	 width="60"  	 height="95"  	 	 	 	></noscript></a>
+</p>
+</td><td>
+<p><a href="/wiki/Marceline" 	class="image image-thumbnail link-internal" 	 title="Marceline"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Marceline2"  	class="lzy lzyPlcHld " 	 	data-image-key="Marceline2.png" 	data-image-name="Marceline2.png" 	 data-src="http://img2.wikia.nocookie.net/__cb20111005005856/adventuretimewithfinnandjake/images/thumb/d/d0/Marceline2.png/37px-Marceline2.png"  	 width="37"  	 height="115"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img2.wikia.nocookie.net/__cb20111005005856/adventuretimewithfinnandjake/images/thumb/d/d0/Marceline2.png/37px-Marceline2.png" 	 alt="Marceline2"  	class="" 	 	data-image-key="Marceline2.png" 	data-image-name="Marceline2.png" 	 	 width="37"  	 height="115"  	 	 	 	></noscript></a>
+</p>
+</td><td>
+<p><a href="/wiki/Lumpy_Space_Princess" 	class="image image-thumbnail link-internal" 	 title="Lumpy Space Princess"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Lumpy Space"  	class="lzy lzyPlcHld " 	 	data-image-key="Lumpy_Space.png" 	data-image-name="Lumpy Space.png" 	 data-src="http://img1.wikia.nocookie.net/__cb20110730224431/adventuretimewithfinnandjake/images/thumb/9/9f/Lumpy_Space.png/55px-Lumpy_Space.png"  	 width="55"  	 height="65"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img1.wikia.nocookie.net/__cb20110730224431/adventuretimewithfinnandjake/images/thumb/9/9f/Lumpy_Space.png/55px-Lumpy_Space.png" 	 alt="Lumpy Space"  	class="" 	 	data-image-key="Lumpy_Space.png" 	data-image-name="Lumpy Space.png" 	 	 width="55"  	 height="65"  	 	 	 	></noscript></a>
+</p>
+</td><td>
+<p><a href="/wiki/BMO" 	class="image image-thumbnail link-internal" 	 title="Beemo"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="BeeMO"  	class="lzy lzyPlcHld " 	 	data-image-key="BeeMO.png" 	data-image-name="BeeMO.png" 	 data-src="http://img2.wikia.nocookie.net/__cb20120428055028/adventuretimewithfinnandjake/images/thumb/b/bc/BeeMO.png/50px-BeeMO.png"  	 width="50"  	 height="61"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img2.wikia.nocookie.net/__cb20120428055028/adventuretimewithfinnandjake/images/thumb/b/bc/BeeMO.png/50px-BeeMO.png" 	 alt="BeeMO"  	class="" 	 	data-image-key="BeeMO.png" 	data-image-name="BeeMO.png" 	 	 width="50"  	 height="61"  	 	 	 	></noscript></a>
+</p>
+</td></tr><tr style="text-align: center;"><td>
+<p><small><a href="/wiki/Finn" title="Finn">Finn</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Jake" title="Jake">Jake</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Ice_King" title="Ice King">Ice King</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Princess_Bubblegum" title="Princess Bubblegum">Princess<br />Bubblegum</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Lady_Rainicorn" title="Lady Rainicorn">Lady<br />Rainicorn</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Marceline" title="Marceline">Marceline</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/Lumpy_Space_Princess" title="Lumpy Space Princess">Lumpy Space<br />Princess</a></small>
+</p>
+</td><td>
+<p><small><a href="/wiki/BMO" title="BMO">BMO</a></small>
+</p>
+</td></tr></table>
+</center>
+</div></div></td></tr></table></td></tr></table>
+ <div style="clear:both"></div>
+<table class="navbox" cellspacing="0" style=";color:black; background-color:#BCD9E3; border:1px solid #1A5B70; width:100%;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;"><tr><th style="background-color:#1478BA;;color:white;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;background-color:#1478BA;;color:white;;border:none;; font-size:xx-small;"><a href="/wiki/Template:MinorCharacterNav" title="Template:MinorCharacterNav"><span title="View this template" style="background-color:#1478BA;;color:white;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/wiki/Template_talk:MinorCharacterNav" title="Template talk:MinorCharacterNav"><span title="Discuss this template" style="background-color:#1478BA;;color:white;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a  class="text" href="http://adventuretime.wikia.com/wiki/Template:MinorCharacterNav?action=edit"><span title="Edit this template" style="background-color:#1478BA;;color:white;;border:none;;">e</span></a></div></div><span class="" style="font-size:110%;"><a href="/wiki/Category:Minor_Characters" title="Category:Minor Characters"><span style="color:white;">Other characters</span></a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Recurring</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Abracadaniel" title="Abracadaniel">Abracadaniel</a> •
+<a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving" title="Ancient Sleeping Magi of Life Giving">Ancient Sleeping Magi of Life Giving</a> •
+<a href="/wiki/Banana_Man" title="Banana Man">Banana Man</a> •
+<a href="/wiki/Party_Bears" title="Party Bears">Bears</a> •
+<a href="/wiki/Billy" title="Billy">Billy</a> •
+<a href="/wiki/Bufo" title="Bufo">Bufo</a> •
+<a href="/wiki/Candy_Person_105" title="Candy Person 105">Candy Heart</a> •
+<a href="/wiki/Candy_People" title="Candy People">Candy People</a> •
+<a href="/wiki/Chet" title="Chet">Chet</a> •
+<a href="/wiki/Candy_Person_2" title="Candy Person 2">Chocoberry</a> •
+<a href="/wiki/Choose_Goose" title="Choose Goose">Choose Goose</a> •
+<a href="/wiki/Cinnamon_Bun" title="Cinnamon Bun">Cinnamon Bun</a> •
+<a href="/wiki/Cloud_People" title="Cloud People">Cloud People</a> •
+<a href="/wiki/Cosmic_Owl" title="Cosmic Owl">Cosmic Owl</a> •
+<a href="/wiki/Crystal_Guardian" title="Crystal Guardian">Crystal Guardian</a> •
+<a href="/wiki/Cuber" title="Cuber">Cuber</a> •
+<a href="/wiki/Death" title="Death">Death</a> •
+<a href="/wiki/Doctor_Princess" title="Doctor Princess">Doctor Princess</a> •
+<a href="/wiki/Dragons" title="Dragons">Dragons</a> •
+<a href="/wiki/Dr._Ice_Cream" title="Dr. Ice Cream">Dr. Ice Cream</a> •
+<a href="/wiki/Duchess_of_Nuts" title="Duchess of Nuts">Duchess of Nuts</a> •
+<a href="/wiki/Duke_of_Nuts" title="Duke of Nuts">Duke of Nuts</a> •
+<a href="/wiki/Farmworld_Finn" title="Farmworld Finn">Farmworld Finn</a> •
+<a href="/wiki/Farmworld_Jake" title="Farmworld Jake">Farmworld Jake</a> •
+<a href="/wiki/Finn%27s_Mom" title="Finn's Mom">Finn's Mom</a> •
+<a href="/wiki/Fire_Wolves" title="Fire Wolves">Fire Wolves</a> •
+<a href="/wiki/Flambo" title="Flambo">Flambo</a> •
+<a href="/wiki/Flame_King" title="Flame King">Flame King</a> •
+<a href="/wiki/Forest_Wizard" title="Forest Wizard">Forest Wizard</a> •
+<a href="/wiki/Frog" title="Frog">Frog</a> • 
+<a href="/wiki/Fuzzy_Friends" title="Fuzzy Friends">Fuzzy Friends</a> •
+<a href="/wiki/Candy_Person_44" title="Candy Person 44">Gingerbread Pat</a> •
+<a href="/wiki/Candy_Person_43" title="Candy Person 43">Gingerbread Pen</a> •
+<a href="/wiki/Goblins" title="Goblins">Goblins</a> •
+<a href="/wiki/Candy_Person_16" title="Candy Person 16">Grape Popsicle Guy</a> •
+<a href="/wiki/Guardian_Angel" title="Guardian Angel">Guardian Angel</a> •
+<a href="/wiki/Gumball_Guardian" title="Gumball Guardian">Gumball Guardian</a> •
+<a href="/wiki/Gunter" title="Gunter">Gunter</a> •
+<a href="/wiki/Grand_Master_Wizard" title="Grand Master Wizard">Grand Master Wizard</a> •
+<a href="/wiki/Hunson_Abadeer" title="Hunson Abadeer">Hunson Abadeer</a> •
+<a href="/wiki/Iceclops" title="Iceclops">Iceclops</a> •
+<a href="/wiki/Jake_Jr." title="Jake Jr.">Jake Jr.</a> • 
+<a href="/wiki/Jermaine" title="Jermaine">Jermaine</a> •
+<a href="/wiki/Joshua" title="Joshua">Joshua</a> •
+<a href="/wiki/King_Worm_(character)" title="King Worm (character)">King Worm</a> •
+<a href="/wiki/Lady_Wizard_1" title="Lady Wizard 1">Lady Wizard 1</a> &amp; <a href="/wiki/Lady_Wizard_2" title="Lady Wizard 2">Lady Wizard 2</a> •
+<a href="/wiki/Lemon_Camel" title="Lemon Camel">Lemon Camel</a> •
+<a href="/wiki/Earl_of_Lemongrab" title="Earl of Lemongrab">Lemongrab</a> •
+<a href="/wiki/Lemongrab_2" title="Lemongrab 2">Lemongrab 2</a> •
+<a href="/wiki/The_Lich_(character)" title="The Lich (character)">Lich, The</a> •
+<a href="/wiki/Lyre_Player" title="Lyre Player">Lyre Player</a> •
+<a href="/wiki/Lumpy_Space_King" title="Lumpy Space King">Lumpy Space King</a> &amp; <a href="/wiki/Lumpy_Space_Queen" title="Lumpy Space Queen">Lumpy Space Queen</a> •
+<a href="/wiki/Magic_Man" title="Magic Man">Magic Man</a> •
+<a href="/wiki/Manfried" title="Manfried">Manfried</a> •
+<a href="/wiki/Margaret" title="Margaret">Margaret</a> •
+<a href="/wiki/Marquis_of_Nuts" title="Marquis of Nuts">Marquis of Nuts</a> •
+<a href="/wiki/Marauders" title="Marauders">Marauders</a> •
+<a href="/wiki/Martin" title="Martin">Martin</a> •
+<a href="/wiki/Mini_Queen" title="Mini Queen">Mini Queen</a> •
+<a href="/wiki/The_Morrow" title="The Morrow">Morrow, The</a> •
+<a href="/wiki/Candy_Person_3" title="Candy Person 3">Mr. Cupcake</a> •
+<a href="/wiki/Mr._Fox" title="Mr. Fox">Mr. Fox</a> • 
+<a href="/wiki/Mr._Pig" title="Mr. Pig">Mr. Pig</a> •
+<a href="/wiki/Naked_Wizard" title="Naked Wizard" class="mw-redirect">Naked Wizard</a> •
+<a href="/wiki/Neptr" title="Neptr">Neptr</a> •
+<a href="/wiki/Nurse_Pound_Cake" title="Nurse Pound Cake">Nurse Pound Cake</a> •
+<a href="/wiki/Party_God" title="Party God">Party God</a> •
+<a href="/wiki/Penguins" title="Penguins">Penguins</a> •
+<a href="/wiki/Peppermint_Butler" title="Peppermint Butler">Peppermint Butler</a> •
+<a href="/wiki/Phil" title="Phil">Phil</a> •
+<a href="/wiki/Pincer_Beetle" title="Pincer Beetle">Pincer Beetle</a> •
+<a href="/wiki/Punch_Bowl" title="Punch Bowl">Punch Bowl</a> •
+<a href="/wiki/Shelby" title="Shelby">Shelby</a> •
+<a href="/wiki/Simon" title="Simon">Simon</a> •
+<a href="/wiki/Snail" title="Snail">Snail</a> •
+<a href="/wiki/Squirrel_(The_Duke)" title="Squirrel (The Duke)">Squirrel</a> •
+<a href="/wiki/Stanley" title="Stanley">Stanley</a> •
+<a href="/wiki/Snow_Golem" title="Snow Golem">Snow Golem</a> •
+<a href="/wiki/Starchie" title="Starchie">Starchie</a> •
+<a href="/wiki/Susan_Strong_(character)" title="Susan Strong (character)">Susan Strong</a> •
+<a href="/wiki/Ricardio" title="Ricardio">Ricardio</a> •
+<a href="/wiki/Tiffany" title="Tiffany">Tiffany</a> •
+<a href="/wiki/Tree_Trunks_(character)" title="Tree Trunks (character)">Tree Trunks</a> •
+<a href="/wiki/Two_Headed_Duck" title="Two Headed Duck">Two-Headed Duck</a> •
+<a href="/wiki/Wildberry_People" title="Wildberry People">Wildberry People</a> •
+<a href="/wiki/Wizard_Students" title="Wizard Students">Wizard Students</a> •
+<a href="/wiki/Wolf" title="Wolf">Wolves</a> •
+<a href="/wiki/Worm" title="Worm">Worms</a> •
+<a href="/wiki/Xergiok" title="Xergiok">Xergiok</a> 
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Animated short</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Ninjas" title="Ninjas">Ninjas</a> •
+<a href="/wiki/Old_Man" title="Old Man">Old Man</a> •
+<a href="/wiki/Fire_Elemental" title="Fire Elemental">Fire Elemental</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 1</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Ant_(Brain_World)" title="Ant (Brain World)">Ant</a> •
+<a href="/wiki/Balloons" title="Balloons">Balloons</a> •
+<a href="/wiki/Battle_Cube" title="Battle Cube">Battle Cubes</a> •
+<a href="/wiki/Bee" title="Bee">Bee</a> •
+<a href="/wiki/Bellamy_Bug" title="Bellamy Bug">Bellamy Bug</a> •
+<a href="/wiki/Brad" title="Brad">Brad</a> •
+<a href="/wiki/Brain_Beast" title="Brain Beast">Brain Beast</a> •
+<a href="/wiki/Bucket_Knight" title="Bucket Knight">Bucket Knight</a> •
+<a href="/wiki/Business_Men" title="Business Men">Business Men</a> •
+<a href="/wiki/Cobbler" title="Cobbler">Cobbler</a> •
+<a href="/wiki/Cube_People" title="Cube People">Cube People</a> •
+<a href="/wiki/Demon_Cat" title="Demon Cat">Demon Cat</a> •
+<a href="/wiki/Demonic_Eye_Creatures" title="Demonic Eye Creatures">Demonic Eye Creatures</a> •
+<a href="/wiki/Donny_(character)" title="Donny (character)">Donny</a> •
+<a href="/wiki/Eberhardt" title="Eberhardt">Eberhardt</a> •
+<a href="/wiki/Electroids" title="Electroids">Electroids</a> •
+<a href="/wiki/Evil_Guy" title="Evil Guy">Evil Guy</a> •
+<a href="/wiki/Fear_Feaster" title="Fear Feaster">Fear Feaster</a> •
+<a href="/wiki/Fine_Lady" title="Fine Lady">Fine Lady</a> •
+<a href="/wiki/Fire_Count" title="Fire Count">Fire Count</a> •
+<a href="/wiki/Fire_Newt" title="Fire Newt">Fire Newt</a> •
+<a href="/wiki/Gary_the_Mermaid_Queen" title="Gary the Mermaid Queen">Gary</a> •
+<a href="/wiki/Giant_Bear" title="Giant Bear">Giant Bear</a> •
+<a href="/wiki/Gnomes" title="Gnomes">Gnomes</a> •
+<a href="/wiki/Hag" title="Hag">Hag</a> •
+<a href="/wiki/Hatchlings" title="Hatchlings">Hatchlings</a> •
+<a href="/wiki/Heart_Beast" title="Heart Beast">Heart Beast</a> •
+<a href="/wiki/House_People" title="House People">House People</a> •
+<a href="/wiki/Jelly_Cube" title="Jelly Cube">Jelly Cube</a> •
+<a href="/wiki/Jigglers" title="Jigglers">Jigglers</a> •
+<a href="/wiki/Key-per" title="Key-per">Key-per</a> •
+<a href="/wiki/Lake_Knights" title="Lake Knights">Lake Knights</a> •
+<a href="/wiki/Mannish_Man" title="Mannish Man">Mannish Man</a> •
+<a href="/wiki/Melissa" title="Melissa">Melissa</a> •
+<a href="/wiki/Mountain_Man" title="Mountain Man">Mountain Man</a> •
+<a href="/wiki/Ogre" title="Ogre">Ogre</a> •
+<a href="/wiki/Old_Ladies" title="Old Ladies">Old Ladies</a> •
+<a href="/wiki/Old_Lady_(His_Hero)" title="Old Lady (His Hero)">Old Lady</a> •
+<a href="/wiki/Old_Man_Henchman" title="Old Man Henchman">Old Man Henchman</a> •
+<a href="/wiki/Old_Man_Prisoner" title="Old Man Prisoner">Old Man Prisoner</a> •
+<a href="/wiki/Old_Swans" title="Old Swans">Old Swans</a> •
+<a href="/wiki/Old_Wizards" title="Old Wizards">Old Wizards</a> •
+<a href="/wiki/Penny" title="Penny">Penny</a> •
+<a href="/wiki/Reaper" title="Reaper">Reaper</a> •
+<a href="/wiki/Riddle_Master" title="Riddle Master">Riddle Master</a> •
+<a href="/wiki/Rump_People" title="Rump People">Rump People</a> •
+<a href="/wiki/Science_Cat" title="Science Cat">Science Cat</a> •
+<a href="/wiki/Shark" title="Shark">Shark</a> •
+<a href="/wiki/Short_Goblin" title="Short Goblin">Short Goblin</a> •
+<a href="/wiki/Sign_Zombie" title="Sign Zombie">Sign Zombie</a> •
+<a href="/wiki/Skeleton_Army" title="Skeleton Army">Skeleton Army</a> •
+<a href="/wiki/Snow_Monsters" title="Snow Monsters">Snow Monsters</a> •
+<a href="/wiki/Soft_People" title="Soft People">Soft People</a> •
+<a href="/wiki/Spiky_People" title="Spiky People">Spiky People</a> •
+<a href="/wiki/Stanley" title="Stanley">Stanley</a> •
+<a href="/wiki/Stonesy" title="Stonesy">Stonesy</a> •
+<a href="/wiki/Super_Freak" title="Super Freak">Super Freak</a> (<a href="/wiki/Gorflax" title="Gorflax" class="mw-redirect">Gorflax</a>, <a href="/wiki/Gork" title="Gork">Gork</a>, <a href="/wiki/Kim" title="Kim">Kim</a>, <a href="/wiki/Trudy" title="Trudy" class="mw-redirect">Trudy</a>, <a href="/wiki/Wee_Wee" title="Wee Wee" class="mw-redirect">Wee Wee</a>, <a href="/wiki/Zap" title="Zap" class="mw-redirect">Zap</a>) •
+<a href="/wiki/Swamp_Giant" title="Swamp Giant">Swamp Giant</a> •
+<a href="/wiki/Swan" title="Swan">Swan</a> •
+<a href="/wiki/Three_Wise_Men" title="Three Wise Men">Three Wise Men</a> •
+<a href="/wiki/Toad" title="Toad">Toad</a> •
+<a href="/wiki/Townspeople" title="Townspeople">Townspeople</a> •
+<a href="/wiki/Skeleton_Butterfly" title="Skeleton Butterfly">Skeleton butterflies</a> •
+<a href="/wiki/Wall_of_Flesh" title="Wall of Flesh">Wall of Flesh</a> •
+<a href="/wiki/Why-wolves" title="Why-wolves">Why-wolves</a> •
+<a href="/wiki/Witch" title="Witch">Witch</a> 
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 2</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Ancient_Psychic_Tandem_War_Elephant" title="Ancient Psychic Tandem War Elephant">Ancient Psychic Tandem War Elephant</a> •
+<a href="/wiki/Aquandrius" title="Aquandrius">Aquandrius</a> •
+<a href="/wiki/Baby_Pigs" title="Baby Pigs" class="mw-redirect">Baby Pigs</a> •
+<a href="/wiki/Bob_Rainicorn" title="Bob Rainicorn">Bob Rainicorn</a> &amp; <a href="/wiki/Ethel_Rainicorn" title="Ethel Rainicorn">Ethel Rainicorn</a> •
+<a href="/wiki/Boobafina" title="Boobafina">Boobafina</a> •
+<a href="/wiki/Booboo" title="Booboo">Booboo</a> •
+<a href="/wiki/Bouncy_Bee" title="Bouncy Bee">Bouncy Bee</a> •
+<a href="/wiki/Boyfriend_%26_Girlfriend_Skeletons" title="Boyfriend &amp; Girlfriend Skeletons">Boyfriend &amp; Girlfriend Skeletons</a> •
+<a href="/wiki/Butterfly_With_Laser_Gun" title="Butterfly With Laser Gun">Butterfly With Laser Gun</a> •
+<a href="/wiki/Colonel_Candy_Corn" title="Colonel Candy Corn">Colonel Candy Corn</a> •
+<a href="/wiki/Commander_and_Private" title="Commander and Private">Commander and Private</a> •
+<a href="/wiki/Crystal_People" title="Crystal People">Crystal People</a> •
+<a href="/wiki/Crystalline_Demon" title="Crystalline Demon">Crystalline Demon</a> •
+<a href="/wiki/Georgy" title="Georgy">Georgy</a> •
+<a href="/wiki/Gelatin_Man" title="Gelatin Man">Gelatin Man</a> •
+<a href="/wiki/Ghost_Man" title="Ghost Man">Ghost Man</a> •
+<a href="/wiki/Gnome_Knight" title="Gnome Knight">Gnome Knight</a> •
+<a href="/wiki/Gnome_Ruler" title="Gnome Ruler">Gnome Ruler</a> •
+<a href="/wiki/Golem" title="Golem">Golem</a> •
+<a href="/wiki/Candy_Person_10" title="Candy Person 10">Green Gumdrop Dude</a> •
+<a href="/wiki/Gummy" title="Gummy">Gummy</a> •
+<a href="/wiki/Halt" title="Halt">Halt</a> •
+<a href="/wiki/Hot_Dog_Knights" title="Hot Dog Knights">Hot Dog Knights</a> •
+<a href="/wiki/Hunny_Bunny" title="Hunny Bunny">Hunny Bunny</a> •
+<a href="/wiki/Jelly_Bean_People" title="Jelly Bean People">Jelly Bean People</a> •
+<a href="/wiki/JJ" title="JJ">JJ</a> •
+<a href="/wiki/Knights" title="Knights">Knights</a> •
+<a href="/wiki/Labyrinth_Worm" title="Labyrinth Worm">Labyrinth Worm</a> •
+<a href="/wiki/Lester" title="Lester">Lester</a> •
+<a href="/wiki/Momma_Bear" title="Momma Bear">Momma Bear</a> •
+<a href="/wiki/Monster" title="Monster">Monster</a> •
+<a href="/wiki/Mrs._Yoder" title="Mrs. Yoder">Mrs. Yoder</a> •
+<a href="/wiki/Mushroom_Mayor" title="Mushroom Mayor">Mushroom Mayor</a> •
+<a href="/wiki/Mushroom_People" title="Mushroom People">Mushroom People</a> •
+<a href="/wiki/Nymph" title="Nymph">Nymph</a> •
+<a href="/wiki/Party_Pat" title="Party Pat">Party Pat</a> •
+<a href="/wiki/Red-faced_Monster" title="Red-faced Monster" class="mw-redirect">Red-faced Monster</a> •
+<a href="/wiki/Rock_People" title="Rock People">Rock People</a> •
+<a href="/wiki/Tart_Toter" title="Tart Toter">Tart Toter</a> •
+<a href="/wiki/Sir_Slicer" title="Sir Slicer">Sir Slicer</a> •
+<a href="/wiki/Sleepy_Sam" title="Sleepy Sam">Sleepy Sam</a> •
+<a href="/wiki/Snorlock" title="Snorlock">Snorlock</a> •
+<a href="/wiki/Teenage_Bear" title="Teenage Bear">Teenage Bear</a> •
+<a href="/wiki/Tree_Witch" title="Tree Witch">Tree Witch</a> •
+<a href="/wiki/Wendy" title="Wendy">Wendy</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 3</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Ash" title="Ash">Ash</a> •
+<a href="/wiki/Betty_Grof" title="Betty Grof">Betty Grof</a> •
+<a href="/wiki/Blastronaut" title="Blastronaut">Blastronaut</a> •
+<a href="/wiki/Burger_Monster" title="Burger Monster">Burger Monster</a> •
+<a href="/wiki/Centipede" title="Centipede">Centipede</a> •
+<a href="/wiki/Clarence" title="Clarence">Clarence</a> •
+<a href="/wiki/Clown_Nurse" title="Clown Nurse">Clown Nurses</a> •
+<a href="/wiki/Cuties" title="Cuties">Cuties</a> •
+<a href="/wiki/Dimension_Wizard" title="Dimension Wizard">Dimension Wizard</a> •
+<a href="/wiki/Door_Lord" title="Door Lord">Door Lord</a> •
+<a href="/wiki/Dumb_Rock" title="Dumb Rock">Dumb Rock</a> •
+<a href="/wiki/Electric_Eel" title="Electric Eel">Electric Eel</a> •
+<a href="/wiki/Evil_Monster" title="Evil Monster">Evil Monster</a> •
+<a href="/wiki/Fat_Villagers" title="Fat Villagers">Fat Villagers</a> •
+<a href="/wiki/Fight_King" title="Fight King">Fight King</a> •
+<a href="/wiki/Fire_Wolf_Pup" title="Fire Wolf Pup">Fire Wolf Pup</a> •
+<a href="/wiki/Forest_Cyclops" title="Forest Cyclops">Forest Cyclops</a> •
+<a href="/wiki/Fruit_Witch" title="Fruit Witch">Fruit Witches</a> •
+<a href="/wiki/Gladiator_Ghost" title="Gladiator Ghost">Gladiator Ghost</a> •
+<a href="/wiki/Hamburger_Monster" title="Hamburger Monster">Hamburger Monster</a> •
+<a href="/wiki/Hand_Snow_Golem" title="Hand Snow Golem">Hand Snow Golem</a> •
+<a href="/wiki/Hedgehog_Creatures" title="Hedgehog Creatures">Hedgehogs</a> •
+<a href="/wiki/Hot_Dog_Monster" title="Hot Dog Monster">Hot Dog Monster</a> •
+<a href="/wiki/Howard" title="Howard">Howard</a> •
+<a href="/wiki/Jaybird" title="Jaybird">Jaybird</a> •
+<a href="/wiki/Jelly_Kinder" title="Jelly Kinder">Jelly Kinder</a> •
+<a href="/wiki/Iron_Owl" title="Iron Owl">Iron Owl</a> •
+<a href="/wiki/Lava_Man" title="Lava Man">Lava Man</a> •
+<a href="/wiki/Lub_Glubs" title="Lub Glubs">Lub Glubs</a> •
+<a href="/wiki/Me-Mow" title="Me-Mow">Me-Mow</a> •
+<a href="/wiki/Moldos" title="Moldos">Moldos</a> •
+<a href="/wiki/Pagelings" title="Pagelings">Pagelings</a> •
+<a href="/wiki/Pan" title="Pan">Pan</a> •
+<a href="/wiki/Papa_Wolf" title="Papa Wolf">Papa Wolf</a> •
+<a href="/wiki/Paper_Pete_(character)" title="Paper Pete (character)">Paper Pete</a> •
+<a href="/wiki/Rainy" title="Rainy">Rainy</a> •
+<a href="/wiki/Science" title="Science">Science</a> •
+<a href="/wiki/Scorcher" title="Scorcher">Scorcher</a> •
+<a href="/wiki/Smudge" title="Smudge">Smudge</a> •
+<a href="/wiki/Snow_Men" title="Snow Men">Snow Men</a> •
+<a href="/wiki/Spider" title="Spider">Spider</a> •
+<a href="/wiki/Spirit_Waves" title="Spirit Waves">Spirit Waves</a> •
+<a href="/wiki/Stag" title="Stag">Stag</a> •
+<a href="/wiki/Talking_Bush" title="Talking Bush">Talking Bush</a> •
+<a href="/wiki/Tiny_Goblin" title="Tiny Goblin">Tiny Goblin</a> •
+<a href="/wiki/Tree_Stump_With_Sign" title="Tree Stump With Sign">Tree Stump With Sign</a> •
+<a href="/wiki/Ugly_Monster" title="Ugly Monster">Ugly Monster</a> •
+<a href="/wiki/Wormo" title="Wormo">Wormo</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 4</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Abe_Lincoln" title="Abe Lincoln">Abe Lincoln</a> •
+<a href="/wiki/Bebe" title="Bebe">Bebe</a> •
+<a href="/wiki/Baby_Spider" title="Baby Spider" class="mw-redirect">Baby Spider</a> •
+<a href="/wiki/Bear" title="Bear">Bear</a> •
+<a href="/wiki/Beautiful_Lady" title="Beautiful Lady">Beautiful Lady</a> •
+<a href="/wiki/Barb" title="Barb">Barb</a> •
+<a href="/wiki/Candy_Nanny" title="Candy Nanny">Candy Nanny</a> •
+<a href="/wiki/Chocolate_Chip" title="Chocolate Chip">Chocolate Chips</a> •
+<a href="/wiki/Crunchy" title="Crunchy">Crunchy</a> •
+<a href="/wiki/Demons" title="Demons">Demons</a> •
+<a href="/wiki/Dr._J" title="Dr. J">Dr. J</a> •
+<a href="/wiki/Dream_Warrior" title="Dream Warrior">Dream Warrior</a> •
+<a href="/wiki/Ed" title="Ed">Ed</a> •
+<a href="/wiki/Family" title="Family">Family</a> •
+<a href="/wiki/The_Farm" title="The Farm">Farm, the</a> •
+<a href="/wiki/Fat_Bee" title="Fat Bee">Fat Bee</a> •
+<a href="/wiki/Furnius" title="Furnius">Furnius</a> •
+<a href="/wiki/Goliad_(character)" title="Goliad (character)">Goliad</a> •
+<a href="/wiki/Grob_Gob_Glob_Grod" title="Grob Gob Glob Grod">Grob Gob Glob Grod</a> •
+<a href="/wiki/Ice_Penguin_Monster" title="Ice Penguin Monster">Ice Penguin Monsters</a> •
+<a href="/wiki/Lorraine" title="Lorraine">Lorraine</a> •
+<a href="/wiki/Margles" title="Margles">Margles</a> •
+<a href="/wiki/Martians" title="Martians">Martians</a> •
+<a href="/wiki/Mirror_Finns" title="Mirror Finns">Mirror Finns</a> •
+<a href="/wiki/President_Porpoise" title="President Porpoise">President Porpoise</a> •
+<a href="/wiki/Prince_Huge" title="Prince Huge">Prince Huge</a> •
+<a href="/wiki/Princess_Cookie_(character)" title="Princess Cookie (character)">Princess Cookie</a> •
+<a href="/wiki/Princess_Monster_Wife_(character)" title="Princess Monster Wife (character)">Princess Monster Wife</a> •
+<a href="/wiki/Pup_Gang" title="Pup Gang">Pup Gang</a> •
+<a href="/wiki/Ronnie" title="Ronnie">Ronnie</a> •
+<a href="/wiki/Shark_Sword" title="Shark Sword">Shark Sword</a> •
+<a href="/wiki/Spirit" title="Spirit">Spirits</a> •
+<a href="/wiki/Stormo" title="Stormo">Stormo</a> •
+<a href="/wiki/The_Train" title="The Train">The Train</a> •
+<a href="/wiki/Tiny_Manticore" title="Tiny Manticore">Tiny Manticore</a> •
+<a href="/wiki/Torcho" title="Torcho">Torcho</a> •
+<a href="/wiki/Tree_of_Blight" title="Tree of Blight">Tree of Blight</a> •
+<a href="/wiki/Winged_Lemongrab_Horse" title="Winged Lemongrab Horse">Winged Lemongrab Horse</a> •
+<a href="/wiki/Woobeewoo_Villagers" title="Woobeewoo Villagers">Woobeewoo Villagers</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 5</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving%27s_father" title="Ancient Sleeping Magi of Life Giving's father">Ancient Sleeping Magi of Life Giving's father</a> •
+<a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving%27s_mother" title="Ancient Sleeping Magi of Life Giving's mother">Ancient Sleeping Magi of Life Giving's mother</a> •
+<a href="/wiki/Ann" title="Ann">Ann</a> •
+<a href="/wiki/Bella_Noche" title="Bella Noche">Bella Noche</a> •
+<a href="/wiki/Big_Destiny" title="Big Destiny">Big Destiny</a> •
+<a href="/wiki/Blanket_Dragon" title="Blanket Dragon">Blanket Dragon</a> •
+<a href="/wiki/Blargetha" title="Blargetha">Blargetha</a> •
+<a href="/wiki/Blueberry_Cops" title="Blueberry Cops">Blueberry Cops</a> •
+<a href="/wiki/Boney" title="Boney">Boney</a> •
+<a href="/wiki/Box_Prince_(character)" title="Box Prince (character)">Box Prince</a> •
+<a href="/wiki/Bubble" title="Bubble" class="mw-redirect">Bubble</a> •
+<a href="/wiki/Captain_Banana_Guard" title="Captain Banana Guard">Captain Banana Guard</a> •
+<a href="/wiki/Charlie" title="Charlie">Charlie</a> • 
+<a href="/wiki/Choose_Bruce" title="Choose Bruce">Choose Bruce</a> •
+<a href="/wiki/CMO" title="CMO">CMO</a> •
+<a href="/wiki/Crabbit_Familiar" title="Crabbit Familiar">Crabbit Familiar</a> •
+<a href="/wiki/Destiny_Gang" title="Destiny Gang">Destiny Gang</a> •
+<a href="/wiki/Elder_Plops" title="Elder Plops">Elder Plops</a> •
+<a href="/wiki/Island_Lady" title="Island Lady">Island Lady</a> •
+<a href="/wiki/Farmworld_Marceline" title="Farmworld Marceline">Farmworld Marceline</a> •
+<a href="/wiki/Finn%27s_Dad" title="Finn's Dad">Finn's Dad</a> •
+<a href="/wiki/Finn%27s_Baby_Brother" title="Finn's Baby Brother">Finn's Baby Brother</a> •
+<a href="/wiki/Flame_Princess%27_aunt_%26_uncle" title="Flame Princess' aunt &amp; uncle" class="mw-redirect">Flame Princess' aunt &amp; uncle</a> •
+<a href="/wiki/Flame_Princess%27_older_brother" title="Flame Princess' older brother">Flame Princess' older brother</a> •
+<a href="/wiki/Flame_Princess%27_younger_brothers" title="Flame Princess' younger brothers">Flame Princess' younger brothers</a> •
+<a href="/wiki/Flying_Lettuce_Brothers" title="Flying Lettuce Brothers">Flying Lettuce Brothers</a> •
+<a href="/wiki/Funeral_Guests" title="Funeral Guests">Funeral Guests</a> •
+<a href="/wiki/Gareth" title="Gareth">Gareth</a> •
+<a href="/wiki/Giant_Goo_Skull" title="Giant Goo Skull">Giant Goo Skull</a> •
+<a href="/wiki/Goo_Skulls" title="Goo Skulls">Goo Skulls</a> •
+<a href="/wiki/Gumball_Guard" title="Gumball Guard">Gumball Guard</a> •
+<a href="/wiki/Gunthalina" title="Gunthalina">Gunthalina</a> •
+<a href="/wiki/Jay_%26_Bonnie" title="Jay &amp; Bonnie">Jay &amp; Bonnie</a> •
+<a href="/wiki/Kim_Kil_Whan" title="Kim Kil Whan">Kim Kil Whan</a> • 
+<a href="/wiki/Little_Dude_(character)" title="Little Dude (character)">Little Dude</a> • 
+<a href="/wiki/Mail_Bird" title="Mail Bird">Mail Bird</a> •
+<a href="/wiki/Milk_Ghost" title="Milk Ghost">Milk Ghost</a> •
+<a href="/wiki/Moe" title="Moe">Moe</a> • 
+<a href="/wiki/MOs" title="MOs">MOs</a> • 
+<a href="/wiki/Ogdoad" title="Ogdoad">Ogdoad</a> •
+<a href="/wiki/Pete_Sassafras" title="Pete Sassafras">Pete Sassafras</a> •
+<a href="/wiki/Petey" title="Petey">Petey</a> •
+<a href="/wiki/Porcupine" title="Porcupine" class="mw-redirect">Porcupine</a> •
+<a href="/wiki/Princess_Bubblegum_Bot" title="Princess Bubblegum Bot">Princess Bubblegum Bot</a> •
+<a href="/wiki/Prismo" title="Prismo">Prismo</a> •
+<a href="/wiki/Pterodactyl" title="Pterodactyl">Pterodactyl</a> •
+<a href="/wiki/Quilton" title="Quilton">Quilton</a> •
+<a href="/wiki/Randy" title="Randy">Randy</a> •
+<a href="/wiki/Rasheeta" title="Rasheeta">Rasheeta</a> • 
+<a href="/wiki/Rattleballs_(character)" title="Rattleballs (character)">Rattleballs</a> • 
+<a href="/wiki/Roger" title="Roger">Roger</a> • 
+<a href="/wiki/Ron_James" title="Ron James">Ron James</a> •
+<a href="/wiki/Roselinen" title="Roselinen">Roselinen</a> •
+<a href="/wiki/Shoko" title="Shoko">Shoko</a> •
+<a href="/wiki/Slider_Guy" title="Slider Guy" class="mw-redirect">Slider Guy</a> •
+<a href="/wiki/Snake_Runner" title="Snake Runner">Snake Runner</a> •
+<a href="/wiki/Sparkle" title="Sparkle">Sparkle</a> •
+<a href="/wiki/Sparkle%27s_mother" title="Sparkle's mother">Sparkle's mother</a> •
+<a href="/wiki/Spider-snake_hybrid" title="Spider-snake hybrid">Spider-snake hybrid</a> •
+<a href="/wiki/Squeez-E-Mart_boss" title="Squeez-E-Mart boss">Squeez-E-Mart boss</a> •
+<a href="/wiki/Stranson_Doughblow" title="Stranson Doughblow">Stranson Doughblow</a> •
+<a href="/wiki/Sue" title="Sue">Sue</a> •
+<a href="/wiki/The_Beast" title="The Beast">The Beast</a> •
+<a href="/wiki/The_Owl" title="The Owl">The Owl</a> •
+<a href="/wiki/Trami" title="Trami">Trami</a> •
+<a href="/wiki/Tromo" title="Tromo">Tromo</a> •
+<a href="/wiki/T.V." title="T.V.">T.V.</a> • 
+<a href="/wiki/Unnamed_Destiny_Gang_Members" title="Unnamed Destiny Gang Members">Unnamed Destiny Gang Members</a> •
+<a href="/wiki/Vapor_Swamp_Monsters" title="Vapor Swamp Monsters">Vapor Swamp Monsters</a> •
+<a href="/wiki/Viola_(character)" title="Viola (character)">Viola</a> • 
+<a href="/wiki/Wizard_Bill" title="Wizard Bill">Wizard Bill</a> •
+<a href="/wiki/Wizard_Police" title="Wizard Police">Wizard Police</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Season 6</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Breezy_(character)" title="Breezy (character)">Breezy (character)</a> •
+<a href="/wiki/Darren" title="Darren">Darren</a> •
+<a href="/wiki/Carroll" title="Carroll">Carroll</a> •
+<a href="/wiki/Erin" title="Erin">Erin</a> •
+<a href="/wiki/Giuseppe" title="Giuseppe">Giuseppe</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Comic</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Adventure_Tim" title="Adventure Tim">Adventure Tim</a> •
+<a href="/wiki/ALN" title="ALN">ALN</a> •
+<a href="/wiki/Bongo" title="Bongo">Bongo</a> •
+<a href="/wiki/Breakfast_Organisms" title="Breakfast Organisms">‎Breakfast Organisms</a> •
+<a href="/wiki/Creepy_Finn_%26_Jake_robots" title="Creepy Finn &amp; Jake robots">Creepy Finn &amp; Jake robots</a> •
+<a href="/wiki/Devil_Cake_Downers" title="Devil Cake Downers">Devil Cake Downers</a> •
+<a href="/wiki/Dr._Broccoli" title="Dr. Broccoli">Dr. Broccoli</a> •
+<a href="/wiki/Duke_of_Limesnatch" title="Duke of Limesnatch">Duke of Limesnatch</a> •
+<a href="/wiki/Echo_of_the_Lich" title="Echo of the Lich">Echo of the Lich</a> •
+<a href="/wiki/Ewlbo" title="Ewlbo">Ewlbo</a> •
+<a href="/wiki/Eyebabes" title="Eyebabes">Eyebabes</a> •
+<a href="/wiki/Fart_Fairies" title="Fart Fairies">Fart Fairies</a> •
+<a href="/wiki/Finn_the_Fearful" title="Finn the Fearful">Finn the Fearful</a> •
+<a href="/wiki/Fisho_the_Colossal" title="Fisho the Colossal">Fisho the Colossal</a> • 
+<a href="/wiki/Guntor" title="Guntor">Guntors</a> •
+<a href="/wiki/Gum" title="Gum">Gum</a> •
+<a href="/wiki/Guy" title="Guy">Guy</a> •
+<a href="/wiki/Hook_Crook" title="Hook Crook">Hook Crook</a> •
+<a href="/wiki/Keila" title="Keila">Keila</a> •
+<a href="/wiki/Lord_Vandalstine" title="Lord Vandalstine">Lord Vandalstine</a> •
+<a href="/wiki/Mice_King" title="Mice King">Mice King</a> •
+<a href="/wiki/Monkey_Wizard" title="Monkey Wizard">Monkey Wizard</a> •
+<a href="/wiki/None_Shall_Pass" title="None Shall Pass">None Shall Pass</a> •
+<a href="/wiki/Painting_King" title="Painting King">Painting King</a> •
+<a href="/wiki/Painting_Princess" title="Painting Princess">Painting Princess</a> •
+<a href="/wiki/Penelope" title="Penelope">Penelope</a> •
+<a href="/wiki/Randall_N._Byron" title="Randall N. Byron">Randall N. Byron</a> •
+<a href="/wiki/Song_Bird" title="Song Bird">Song Birds</a> •
+<a href="/wiki/Topiary_Nose" title="Topiary Nose">Topiary Nose</a>
+</p>
+</center></div></td></tr></table></td></tr></table>
+ <div style="clear:both"></div>
+<table class="navbox" cellspacing="0" style=";color:black; background-color:#BCD9E3; border:1px solid #1A5B70; width:100%;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;"><tr><th style="background-color:#1478BA;;color:white;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;background-color:#1478BA;;color:white;;border:none;; font-size:xx-small;"><a href="/wiki/Template:GenderSwapNav" title="Template:GenderSwapNav"><span title="View this template" style="background-color:#1478BA;;color:white;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/wiki/Template_talk:GenderSwapNav" title="Template talk:GenderSwapNav"><span title="Discuss this template" style="background-color:#1478BA;;color:white;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a  class="text" href="http://adventuretime.wikia.com/wiki/Template:GenderSwapNav?action=edit"><span title="Edit this template" style="background-color:#1478BA;;color:white;;border:none;;">e</span></a></div></div><span class="" style="font-size:110%;"><strong class="selflink"><span style="color:white;">Gender-swapped characters</span></strong></span></th></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%;;"><span style="color:white;">Main characters</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Fionna" title="Fionna">Fionna</a> • 
+<a href="/wiki/Cake" title="Cake">Cake</a> • 
+<a href="/wiki/Marshall_Lee" title="Marshall Lee">Marshall Lee</a> • 
+<a href="/wiki/Lord_Monochromicorn" title="Lord Monochromicorn">Lord Monochromicorn</a> • 
+<a href="/wiki/Ice_Queen" title="Ice Queen">Ice Queen</a> • 
+<a href="/wiki/Prince_Gumball" title="Prince Gumball">Prince Gumball</a> • 
+<a href="/wiki/Lumpy_Space_Prince" title="Lumpy Space Prince">Lumpy Space Prince</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%;;"><span style="color:white;">Minor characters</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Cinnamon_Bun_in_Dress" title="Cinnamon Bun in Dress">Cinnamon Bun</a> • 
+<a href="/wiki/Doctor_Prince" title="Doctor Prince">Doctor Prince</a> • 
+<a href="/wiki/Starchy" title="Starchy">Starchy</a> • 
+<a href="/wiki/Flame_Prince" title="Flame Prince">Flame Prince</a> • 
+<a href="/wiki/Gingerbread_Cookie" title="Gingerbread Cookie">Gingerbread Cookie</a> • 
+<a href="/wiki/Gumdrop_Lad_1" title="Gumdrop Lad 1">Gumdrop Lad 1</a> • 
+<a href="/wiki/Gumdrop_Lad_2" title="Gumdrop Lad 2">Gumdrop Lad 2</a> • 
+<a href="/wiki/Lady_Lemongrabs" title="Lady Lemongrabs">Lady Lemongrabs</a> • 
+<a href="/wiki/Candy_Person_59_(Male)" title="Candy Person 59 (Male)">Lollipop Boy</a> • 
+<a href="/wiki/Magic_Man_(female)" title="Magic Man (female)">Magic Woman</a> • 
+<a href="/wiki/Ms._Candy_Cane" title="Ms. Candy Cane" class="mw-redirect">Ms. Candy Cane</a> • 
+<a href="/wiki/Ms._Cupcake" title="Ms. Cupcake">Ms. Cupcake</a> • 
+<a href="/wiki/Ms._Pig" title="Ms. Pig">Ms. Pig</a> • 
+<a href="/wiki/Muscle_Prince" title="Muscle Prince">Muscle Prince</a> • 
+<a href="/wiki/Tree_Trunks_(Male)" title="Tree Trunks (Male)">Tree Trunks</a> • 
+<a href="/wiki/Turtle_Prince" title="Turtle Prince">Turtle Prince</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%;;"><span style="color:white;">Unproduced characters</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Prince_Prince_Prince" title="Prince Prince Prince">Prince Prince Prince</a>
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%;;"><span style="color:white;">Episodes gender-swapped</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><center>
+<p>"<a href="/wiki/Fionna_and_Cake" title="Fionna and Cake">Fionna and Cake</a>" • 
+"<a href="/wiki/Bad_Little_Boy" title="Bad Little Boy">Bad Little Boy</a>" • 
+"<a href="/wiki/The_Prince_Who_Wanted_Everything" title="The Prince Who Wanted Everything">The Prince Who Wanted Everything</a>"
+</p>
+</center></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%;;"><span style="color:white;">Creators</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><center>
+<p><a href="/wiki/Natasha_Allegri" title="Natasha Allegri">Natasha Allegri</a> (real creator) • 
+<a href="/wiki/Ice_King" title="Ice King">Ice King</a> (creator in the cartoon) • 
+<a href="/wiki/Patrick_Seery" title="Patrick Seery">Patrick Seery</a> (creator of Prince Prince Prince) • 
+<a href="/wiki/Marceline" title="Marceline">Marceline</a> (creator of the fanfic story in "Bad Little Boy") •
+<a href="/wiki/Lumpy_Space_Princess" title="Lumpy Space Princess">Lumpy Space Princess</a> (creator of the fanfic story in "The Prince Who Wanted Everything")
+</p>
+</center></div></td></tr></table></td></tr></table>
+ <div style="clear:both"></div>
+<table class="navbox" cellspacing="0" style=";color:black; background-color:#BCD9E3; border:1px solid #1A5B70; width:100%;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;"><tr><th style="background-color:#1478BA;;color:white;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;background-color:#1478BA;;color:white;;border:none;; font-size:xx-small;"><a href="/wiki/Template:PrincessNav" title="Template:PrincessNav"><span title="View this template" style="background-color:#1478BA;;color:white;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/wiki/Template_talk:PrincessNav" title="Template talk:PrincessNav"><span title="Discuss this template" style="background-color:#1478BA;;color:white;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a  class="text" href="http://adventuretime.wikia.com/wiki/Template:PrincessNav?action=edit"><span title="Edit this template" style="background-color:#1478BA;;color:white;;border:none;;">e</span></a></div></div><span class="" style="font-size:110%;"><a href="/wiki/Category:Princesses" title="Category:Princesses"><span style="color:white;">Princesses</span></a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Recurring</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Emerald_Princess" title="Emerald Princess">Emerald Princess</a> •
+<a href="/wiki/Engagement_Ring_Princess" title="Engagement Ring Princess">Engagement Ring Princess</a> •
+<a href="/wiki/Flame_Princess" title="Flame Princess">Flame Princess</a> •
+<a href="/wiki/Ghost_Princess_(character)" title="Ghost Princess (character)">Ghost Princess</a> •
+<a href="/wiki/Hot_Dog_Princess" title="Hot Dog Princess">Hot Dog Princess</a> • 
+<a href="/wiki/Lumpy_Space_Princess" title="Lumpy Space Princess">Lumpy Space Princess</a> • 
+<a href="/wiki/Muscle_Princess" title="Muscle Princess">Muscle Princess</a> •
+<a href="/wiki/Princess_Bubblegum" title="Princess Bubblegum">Princess Bubblegum</a> •
+<a href="/wiki/Raggedy_Princess" title="Raggedy Princess">Raggedy Princess</a> •
+<a href="/wiki/Skeleton_Princess" title="Skeleton Princess">Skeleton Princess</a> •
+<a href="/wiki/Slime_Princess" title="Slime Princess">Slime Princess</a> •
+<a href="/wiki/Turtle_Princess" title="Turtle Princess">Turtle Princess</a> •
+<a href="/wiki/Wildberry_Princess" title="Wildberry Princess">Wildberry Princess</a> 
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Minor</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Bee_Princess" title="Bee Princess">Bee Princess</a> •
+<a href="/wiki/Bounce_House_Princess" title="Bounce House Princess">Bounce House Princess</a> •
+<a href="/wiki/Breakfast_Princess" title="Breakfast Princess">Breakfast Princess</a> •
+<a href="/wiki/Cotton_Candy_Princess" title="Cotton Candy Princess">Cotton Candy Princess</a> •
+<a href="/wiki/Crab_Princess" title="Crab Princess">Crab Princess</a> •
+<a href="/wiki/Frozen_Yogurt_Princess" title="Frozen Yogurt Princess">Frozen Yogurt Princess</a> •
+<a href="/wiki/Elbow_Princess" title="Elbow Princess">Elbow Princess</a> •
+<a href="/wiki/Embryo_Princess" title="Embryo Princess">Embryo Princess</a> •
+<a href="/wiki/Gridface_Princess" title="Gridface Princess">Gridface Princess</a> • 
+<a href="/wiki/Jungle_Princess" title="Jungle Princess">Jungle Princess</a> • 
+<a href="/wiki/Laurel_Princess" title="Laurel Princess">Laurel Princess</a> •
+<a href="/wiki/Lizard_Princess" title="Lizard Princess">Lizard Princess</a> •
+<a href="/wiki/Old_Lady_Princess" title="Old Lady Princess">Old Lady Princess</a> • 
+<a href="/wiki/Peanut_Princess" title="Peanut Princess">Peanut Princess</a> •
+<a href="/wiki/Princess_Beautiful" title="Princess Beautiful">Princess Beautiful</a> • 
+<a href="/wiki/Princess_Monster_Wife_(character)" title="Princess Monster Wife (character)">Princess Monster Wife</a> •
+<a href="/wiki/Princess_Princess_Princess" title="Princess Princess Princess">Princess Princess Princess</a> •
+<a href="/wiki/Purple_Princess" title="Purple Princess">Purple Princess</a> •
+<a href="/wiki/Space_Angel_Princess" title="Space Angel Princess">Space Angel Princess</a> • 
+<a href="/wiki/Toast_Princess" title="Toast Princess">Toast Princess</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;"><span style="color:white;">Comic</span></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Acoustics_Princess" title="Acoustics Princess">Acoustics Princess</a> •
+<a href="/wiki/Agent_Princess" title="Agent Princess">Agent Princess</a> •
+<a href="/wiki/Desert_Princess" title="Desert Princess">Desert Princess</a> •
+<a href="/wiki/Ghost_Princess_2" title="Ghost Princess 2">Ghost Princess 2</a> •
+<a href="/wiki/Lamprey_Princess" title="Lamprey Princess">Lamprey Princess</a> •
+<a href="/wiki/Princess_Chewypaste" title="Princess Chewypaste">Princess Chewypaste</a> •
+<a href="/wiki/Samantha_(comics)" title="Samantha (comics)">Samantha</a> •
+<a href="/wiki/Skateboard_Princess" title="Skateboard Princess">Skateboard Princess</a> •
+<a href="/wiki/Truth_Field_Projection_Princess" title="Truth Field Projection Princess">Truth Field Projection Princess</a> •
+<a href="/wiki/Ocean_Princess" title="Ocean Princess">Ocean Princess</a> •
+<a href="/wiki/Water_Princess" title="Water Princess">Water Princess</a>
+</p>
+</div></div></td></tr></table></td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1574/300000
+Post‐expand include size: 86530/2097152 bytes
+Template argument size: 37582/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key adventuretimewithfinnandjake:pcache:idhash:2322-0!*!0!*!*!2!* -->
+<div class="category-gallery">
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Finn" title="Finn">
+<img src="http://img1.wikia.nocookie.net/__cb20120921151658/adventuretimewithfinnandjake/images/thumb/f/f3/Original_Finn.png/130px-0%2C203%2C4%2C184-Original_Finn.png" alt="Finn" width="130" height="115" />
+<span class="details">Finn</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Marceline" title="Marceline">
+<img src="http://img1.wikia.nocookie.net/__cb20121003133650/adventuretimewithfinnandjake/images/thumb/e/e0/Marceline_Stock_Night.png/130px-0%2C133%2C6%2C124-Marceline_Stock_Night.png" alt="Marceline" width="130" height="115" />
+<span class="details">Marceline</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Princess_Bubblegum" title="Princess Bubblegum">
+<img src="http://img4.wikia.nocookie.net/__cb20120921151236/adventuretimewithfinnandjake/images/thumb/0/00/Princess_Bubblegum.png/130px-0%2C163%2C7%2C151-Princess_Bubblegum.png" alt="Princess Bubblegum" width="130" height="115" />
+<span class="details">Princess Bubblegum</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Ice_King" title="Ice King">
+<img src="http://img1.wikia.nocookie.net/__cb20120921153231/adventuretimewithfinnandjake/images/thumb/6/64/Original_Ice_King.png/130px-0%2C293%2C5%2C264-Original_Ice_King.png" alt="Ice King" width="130" height="115" />
+<span class="details">Ice King</span>
+</a>
+</div>
+<!--<br />-->
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Flame_Princess" title="Flame Princess">
+<img src="http://img1.wikia.nocookie.net/__cb20120831211243/adventuretimewithfinnandjake/images/thumb/3/3e/FlamePrincess.png/130px-0%2C332%2C9%2C303-FlamePrincess.png" alt="Flame Princess" width="130" height="115" />
+<span class="details">Flame Princess</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/Jake" title="Jake">
+<img src="http://img1.wikia.nocookie.net/__cb20141003164301/adventuretimewithfinnandjake/images/thumb/3/3b/Jakesalad.png/130px-0%2C227%2C4%2C205-Jakesalad.png" alt="Jake" width="130" height="115" />
+<span class="details">Jake</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/The_Lich_(character)" title="The Lich (character)">
+<img src="http://img3.wikia.nocookie.net/__cb20120912004917/adventuretimewithfinnandjake/images/thumb/4/48/The_Lich_King.png/130px-65%2C566%2C0%2C442-The_Lich_King.png" alt="The Lich (character)" width="130" height="115" />
+<span class="details">The Lich (character)</span>
+</a>
+</div>
+<div class="category-gallery-item category-gallery-item-image">
+<a href="/wiki/BMO" title="BMO">
+<img src="http://img3.wikia.nocookie.net/__cb20120403002939/adventuretimewithfinnandjake/images/thumb/8/81/BMO.png/130px-0%2C159%2C2%2C143-BMO.png" alt="BMO" width="130" height="115" />
+<span class="details">BMO</span>
+</a>
+</div>
+<!--<br />-->
+</div><div lang="en" dir="ltr"><div id="mw-subcategories">
+<h2><span style="font-size: 80%;">Subcategories</span></h2>
+<p>This category has the following 37 subcategories, out of 37 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><table width="100%"><tr valign="top"><td width="33.3%"><h3>A</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Animals" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Animals">Animals</a>‎ <span title="Contains 8 subcategories, 165 pages, and 0 files" dir="ltr">(8 C, 165 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Aquatic_Animals">Aquatic Animals</a>‎ <span title="Contains 0 subcategories, 11 pages, and 0 files" dir="ltr">(11 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>B</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Background_characters">Background characters</a>‎ <span title="Contains 0 subcategories, 260 pages, and 0 files" dir="ltr">(260 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Birds" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Birds">Birds</a>‎ <span title="Contains 1 subcategory, 26 pages, and 0 files" dir="ltr">(1 C, 26 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>C</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Candy_Kingdom_Inhabitants">Candy Kingdom Inhabitants</a>‎ <span title="Contains 0 subcategories, 114 pages, and 0 files" dir="ltr">(114 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Cats">Cats</a>‎ <span title="Contains 0 subcategories, 10 pages, and 0 files" dir="ltr">(10 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Character_relationships">Character relationships</a>‎ <span title="Contains 0 subcategories, 5 pages, and 0 files" dir="ltr">(5 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Comic_Book_Characters">Comic Book Characters</a>‎ <span title="Contains 0 subcategories, 62 pages, and 0 files" dir="ltr">(62 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>D</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Deceased" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Deceased">Deceased</a>‎ <span title="Contains 1 subcategory, 61 pages, and 0 files" dir="ltr">(1 C, 61 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Doctors">Doctors</a>‎ <span title="Contains 0 subcategories, 10 pages, and 0 files" dir="ltr">(10 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Dogs">Dogs</a>‎ <span title="Contains 0 subcategories, 25 pages, and 0 files" dir="ltr">(25 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>F</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Female" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Female">Female</a>‎ <span title="Contains 2 subcategories, 181 pages, and 0 files" dir="ltr">(2 C, 181 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Fire_Kingdom_Inhabitants">Fire Kingdom Inhabitants</a>‎ <span title="Contains 0 subcategories, 27 pages, and 0 files" dir="ltr">(27 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+<td width="33.3%"><h3>G</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Gender-Swapped_Characters">Gender-Swapped Characters</a>‎ <span title="Contains 0 subcategories, 25 pages, and 0 files" dir="ltr">(25 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Goblins">Goblins</a>‎ <span title="Contains 0 subcategories, 11 pages, and 0 files" dir="ltr">(11 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>H</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Humanoids" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Humanoids">Humanoids</a>‎ <span title="Contains 1 subcategory, 151 pages, and 0 files" dir="ltr">(1 C, 151 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Humans">Humans</a>‎ <span title="Contains 0 subcategories, 15 pages, and 0 files" dir="ltr">(15 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Hybrids">Hybrids</a>‎ <span title="Contains 0 subcategories, 15 pages, and 0 files" dir="ltr">(15 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>I</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Ice_Kingdom_Inhabitants">Ice Kingdom Inhabitants</a>‎ <span title="Contains 0 subcategories, 27 pages, and 0 files" dir="ltr">(27 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>K</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Kings">Kings</a>‎ <span title="Contains 0 subcategories, 17 pages, and 0 files" dir="ltr">(17 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>L</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Lemon_person">Lemon person</a>‎ <span title="Contains 0 subcategories, 9 pages, and 0 files" dir="ltr">(9 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>M</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Magic_Users">Magic Users</a>‎ <span title="Contains 0 subcategories, 74 pages, and 0 files" dir="ltr">(74 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Main_Characters">Main Characters</a>‎ <span title="Contains 0 subcategories, 10 pages, and 0 files" dir="ltr">(10 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Male" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Male">Male</a>‎ <span title="Contains 2 subcategories, 387 pages, and 0 files" dir="ltr">(2 C, 387 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Minor_Characters" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Minor_Characters">Minor Characters</a>‎ <span title="Contains 2 subcategories, 389 pages, and 0 files" dir="ltr">(2 C, 389 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>O</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Original_Character">Original Character</a>‎ <span title="Contains 0 subcategories, 12 pages, and 0 files" dir="ltr">(12 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+<td width="33.3%"><h3>P</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Princes">Princes</a>‎ <span title="Contains 0 subcategories, 11 pages, and 0 files" dir="ltr">(11 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Princesses">Princesses</a>‎ <span title="Contains 0 subcategories, 51 pages, and 0 files" dir="ltr">(51 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>Q</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Queens">Queens</a>‎ <span title="Contains 0 subcategories, 7 pages, and 0 files" dir="ltr">(7 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>R</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Rainicorns">Rainicorns</a>‎ <span title="Contains 0 subcategories, 9 pages, and 0 files" dir="ltr">(9 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Recurring_Characters">Recurring Characters</a>‎ <span title="Contains 0 subcategories, 47 pages, and 0 files" dir="ltr">(47 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Renamed_Characters">Renamed Characters</a>‎ <span title="Contains 0 subcategories, 15 pages, and 0 files" dir="ltr">(15 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Royalty" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Royalty">Royalty</a>‎ <span title="Contains 4 subcategories, 104 pages, and 0 files" dir="ltr">(4 C, 104 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>S</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="Species" title="expand" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Species">Species</a>‎ <span title="Contains 4 subcategories, 92 pages, and 0 files" dir="ltr">(4 C, 92 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>U</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Undead">Undead</a>‎ <span title="Contains 0 subcategories, 45 pages, and 0 files" dir="ltr">(45 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Unseen_Characters">Unseen Characters</a>‎ <span title="Contains 0 subcategories, 20 pages, and 0 files" dir="ltr">(20 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>V</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Virtual_Characters">Virtual Characters</a>‎ <span title="Contains 0 subcategories, 5 pages, and 0 files" dir="ltr">(5 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></td>
+</tr></table></div>
+</div><div id="mw-pages">
+<h2><span style="font-size: 80%;">Pages in category "Characters"</span></h2>
+<p>The following 200 pages are in this category, out of 773 total.
+</p>(previous 200) (<a href="/wiki/Category:Characters?pagefrom=Donny+%28character%29#mw-pages" title="Category:Characters">next 200</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><table width="100%"><tr valign="top"><td width="33.3%"><h3>A</h3>
+<ul><li><a href="/wiki/Abe_Lincoln" title="Abe Lincoln">Abe Lincoln</a></li>
+<li><a href="/wiki/Abracadaniel" title="Abracadaniel">Abracadaniel</a></li>
+<li><a href="/wiki/Acoustics_Princess" title="Acoustics Princess">Acoustics Princess</a></li>
+<li><a href="/wiki/Adventure_Tim" title="Adventure Tim">Adventure Tim</a></li>
+<li><a href="/wiki/Agent_Princess" title="Agent Princess">Agent Princess</a></li>
+<li><a href="/wiki/Air" title="Air">Air</a></li>
+<li><a href="/wiki/User:Alexnic106" title="User:Alexnic106">User:Alexnic106</a></li>
+<li><a href="/wiki/ALN" title="ALN">ALN</a></li>
+<li><a href="/wiki/Amoeba" title="Amoeba">Amoeba</a></li>
+<li><a href="/wiki/Ancient_Psychic_Tandem_War_Elephant" title="Ancient Psychic Tandem War Elephant">Ancient Psychic Tandem War Elephant</a></li>
+<li><a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving" title="Ancient Sleeping Magi of Life Giving">Ancient Sleeping Magi of Life Giving</a></li>
+<li><a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving%27s_father" title="Ancient Sleeping Magi of Life Giving's father">Ancient Sleeping Magi of Life Giving's father</a></li>
+<li><a href="/wiki/Ancient_Sleeping_Magi_of_Life_Giving%27s_mother" title="Ancient Sleeping Magi of Life Giving's mother">Ancient Sleeping Magi of Life Giving's mother</a></li>
+<li><a href="/wiki/Animal_(Memories_of_Boom_Boom_Mountain)" title="Animal (Memories of Boom Boom Mountain)">Animal (Memories of Boom Boom Mountain)</a></li>
+<li><a href="/wiki/Ann" title="Ann">Ann</a></li>
+<li><a href="/wiki/Ant_(Brain_World)" title="Ant (Brain World)">Ant (Brain World)</a></li>
+<li><a href="/wiki/Ant_(Storytelling)" title="Ant (Storytelling)">Ant (Storytelling)</a></li>
+<li><a href="/wiki/Antelope" title="Antelope">Antelope</a></li>
+<li><a href="/wiki/Aquandrius" title="Aquandrius">Aquandrius</a></li>
+<li><a href="/wiki/Ash" title="Ash">Ash</a></li></ul><h3>B</h3>
+<ul><li><a href="/wiki/Baby_Spiders" title="Baby Spiders">Baby Spiders</a></li>
+<li><a href="/wiki/Bad_Guy_Magpie" title="Bad Guy Magpie">Bad Guy Magpie</a></li>
+<li><a href="/wiki/Bad_Haircut_Wizard" title="Bad Haircut Wizard">Bad Haircut Wizard</a></li>
+<li><a href="/wiki/Bagel" title="Bagel">Bagel</a></li>
+<li><a href="/wiki/Balloons" title="Balloons">Balloons</a></li>
+<li><a href="/wiki/Banana_Guard" title="Banana Guard">Banana Guard</a></li>
+<li><a href="/wiki/Banana_Man" title="Banana Man">Banana Man</a></li>
+<li><a href="/wiki/Bandito" title="Bandito">Bandito</a></li>
+<li><a href="/wiki/Barb" title="Barb">Barb</a></li>
+<li><a href="/wiki/Bartram" title="Bartram">Bartram</a></li>
+<li><a href="/wiki/Baskets_%26_Boots_Owner" title="Baskets &amp; Boots Owner">Baskets &amp; Boots Owner</a></li>
+<li><a href="/wiki/Bat" title="Bat">Bat</a></li>
+<li><a href="/wiki/Bath_Boy_Gang" title="Bath Boy Gang">Bath Boy Gang</a></li>
+<li><a href="/wiki/Bath_Boy_Gang_leader" title="Bath Boy Gang leader">Bath Boy Gang leader</a></li>
+<li><a href="/wiki/Battle_Cube" title="Battle Cube">Battle Cube</a></li>
+<li><a href="/wiki/Bazooka_Goblin" title="Bazooka Goblin">Bazooka Goblin</a></li>
+<li><a href="/wiki/Bear" title="Bear">Bear</a></li>
+<li><a href="/wiki/Beau" title="Beau">Beau</a></li>
+<li><a href="/wiki/Beautiful_Lady" title="Beautiful Lady">Beautiful Lady</a></li>
+<li><a href="/wiki/Beaver" title="Beaver">Beaver</a></li>
+<li><a href="/wiki/Bebe" title="Bebe">Bebe</a></li>
+<li><a href="/wiki/Bee" title="Bee">Bee</a></li>
+<li><a href="/wiki/Bee_Princess" title="Bee Princess">Bee Princess</a></li>
+<li><a href="/wiki/Bella_Noche" title="Bella Noche">Bella Noche</a></li>
+<li><a href="/wiki/Bellamy_Bug" title="Bellamy Bug">Bellamy Bug</a></li>
+<li><a href="/wiki/Berdzerd" title="Berdzerd">Berdzerd</a></li>
+<li><a href="/wiki/Betty_Grof" title="Betty Grof">Betty Grof</a></li>
+<li><a href="/wiki/Big_Clown_Nurse" title="Big Clown Nurse">Big Clown Nurse</a></li>
+<li><a href="/wiki/Big_Destiny" title="Big Destiny">Big Destiny</a></li>
+<li><a href="/wiki/Big_Guy" title="Big Guy">Big Guy</a></li>
+<li><a href="/wiki/Bikini_Babes" title="Bikini Babes">Bikini Babes</a></li>
+<li><a href="/wiki/Billy" title="Billy">Billy</a></li>
+<li><a href="/wiki/Bird_inside_out" title="Bird inside out">Bird inside out</a></li>
+<li><a href="/wiki/Blake" title="Blake">Blake</a></li>
+<li><a href="/wiki/Blanket_Dragon" title="Blanket Dragon">Blanket Dragon</a></li>
+<li><a href="/wiki/Blargetha" title="Blargetha">Blargetha</a></li>
+<li><a href="/wiki/Blastronaut" title="Blastronaut">Blastronaut</a></li>
+<li><a href="/wiki/Bliblob" title="Bliblob">Bliblob</a></li>
+<li><a href="/wiki/Blindfold_Guy" title="Blindfold Guy">Blindfold Guy</a></li>
+<li><a href="/wiki/User:BluDude15" title="User:BluDude15">User:BluDude15</a></li>
+<li><a href="/wiki/Blueberry_Cops" title="Blueberry Cops">Blueberry Cops</a></li>
+<li><a href="/wiki/BMO" title="BMO">BMO</a></li>
+<li><a href="/wiki/Bob_Rainicorn" title="Bob Rainicorn">Bob Rainicorn</a></li>
+<li><a href="/wiki/Boilbee" title="Boilbee">Boilbee</a></li>
+<li><a href="/wiki/Boney" title="Boney">Boney</a></li>
+<li><a href="/wiki/Bongo" title="Bongo">Bongo</a></li>
+<li><a href="/wiki/Boobafina" title="Boobafina">Boobafina</a></li></ul></td>
+<td width="33.3%"><h3>B cont.</h3>
+<ul><li><a href="/wiki/Booboo" title="Booboo">Booboo</a></li>
+<li><a href="/wiki/Booger" title="Booger">Booger</a></li>
+<li><a href="/wiki/Booko" title="Booko">Booko</a></li>
+<li><a href="/wiki/Bounce_House_Princess" title="Bounce House Princess">Bounce House Princess</a></li>
+<li><a href="/wiki/Bouncy_Bee" title="Bouncy Bee">Bouncy Bee</a></li>
+<li><a href="/wiki/Box_Prince_(character)" title="Box Prince (character)">Box Prince (character)</a></li>
+<li><a href="/wiki/Boy_Bear" title="Boy Bear">Boy Bear</a></li>
+<li><a href="/wiki/Boyfriend_%26_Girlfriend_Skeletons" title="Boyfriend &amp; Girlfriend Skeletons">Boyfriend &amp; Girlfriend Skeletons</a></li>
+<li><a href="/wiki/Braco" title="Braco">Braco</a></li>
+<li><a href="/wiki/Brad" title="Brad">Brad</a></li>
+<li><a href="/wiki/Brain_Beast" title="Brain Beast">Brain Beast</a></li>
+<li><a href="/wiki/Brain_Wiz" title="Brain Wiz">Brain Wiz</a></li>
+<li><a href="/wiki/Breakfast_Princess" title="Breakfast Princess">Breakfast Princess</a></li>
+<li><a href="/wiki/Breezy_(character)" title="Breezy (character)">Breezy (character)</a></li>
+<li><a href="/wiki/Bronwyn" title="Bronwyn">Bronwyn</a></li>
+<li><a href="/wiki/Bruise_Princess" title="Bruise Princess">Bruise Princess</a></li>
+<li><a href="/wiki/Buck_Pudding" title="Buck Pudding">Buck Pudding</a></li>
+<li><a href="/wiki/Bucket_Knight" title="Bucket Knight">Bucket Knight</a></li>
+<li><a href="/wiki/Bufo" title="Bufo">Bufo</a></li>
+<li><a href="/wiki/Bug" title="Bug">Bug</a></li>
+<li><a href="/wiki/Bugbear" title="Bugbear">Bugbear</a></li>
+<li><a href="/wiki/Burger_Monster" title="Burger Monster">Burger Monster</a></li>
+<li><a href="/wiki/Business_Men" title="Business Men">Business Men</a></li>
+<li><a href="/wiki/Butterfly_(Still)" title="Butterfly (Still)">Butterfly (Still)</a></li>
+<li><a href="/wiki/Butterfly_With_Laser_Gun" title="Butterfly With Laser Gun">Butterfly With Laser Gun</a></li></ul><h3>C</h3>
+<ul><li><a href="/wiki/Cactus_Creatures" title="Cactus Creatures">Cactus Creatures</a></li>
+<li><a href="/wiki/Cake" title="Cake">Cake</a></li>
+<li><a href="/wiki/Candy_Baby" title="Candy Baby">Candy Baby</a></li>
+<li><a href="/wiki/Candy_Cane_Girl" title="Candy Cane Girl">Candy Cane Girl</a></li>
+<li><a href="/wiki/Candy_Cane_Guy" title="Candy Cane Guy">Candy Cane Guy</a></li>
+<li><a href="/wiki/Candy_Corn_rats" title="Candy Corn rats">Candy Corn rats</a></li>
+<li><a href="/wiki/Candy_Kid" title="Candy Kid">Candy Kid</a></li>
+<li><a href="/wiki/Candy_Magician" title="Candy Magician">Candy Magician</a></li>
+<li><a href="/wiki/Candy_Mother" title="Candy Mother">Candy Mother</a></li>
+<li><a href="/wiki/Candy_Nanny" title="Candy Nanny">Candy Nanny</a></li>
+<li><a href="/wiki/Candy_Person_10" title="Candy Person 10">Candy Person 10</a></li>
+<li><a href="/wiki/Candy_Person_102" title="Candy Person 102">Candy Person 102</a></li>
+<li><a href="/wiki/Candy_Person_103" title="Candy Person 103">Candy Person 103</a></li>
+<li><a href="/wiki/Candy_Person_104" title="Candy Person 104">Candy Person 104</a></li>
+<li><a href="/wiki/Candy_Person_105" title="Candy Person 105">Candy Person 105</a></li>
+<li><a href="/wiki/Candy_Person_107" title="Candy Person 107">Candy Person 107</a></li>
+<li><a href="/wiki/Candy_Person_108" title="Candy Person 108">Candy Person 108</a></li>
+<li><a href="/wiki/Candy_Person_16" title="Candy Person 16">Candy Person 16</a></li>
+<li><a href="/wiki/Candy_Person_2" title="Candy Person 2">Candy Person 2</a></li>
+<li><a href="/wiki/Candy_Person_203" title="Candy Person 203">Candy Person 203</a></li>
+<li><a href="/wiki/Candy_Person_28" title="Candy Person 28">Candy Person 28</a></li>
+<li><a href="/wiki/Candy_Person_3" title="Candy Person 3">Candy Person 3</a></li>
+<li><a href="/wiki/Candy_Person_35" title="Candy Person 35">Candy Person 35</a></li>
+<li><a href="/wiki/Candy_Person_39" title="Candy Person 39">Candy Person 39</a></li>
+<li><a href="/wiki/Candy_Person_43" title="Candy Person 43">Candy Person 43</a></li>
+<li><a href="/wiki/Candy_Person_44" title="Candy Person 44">Candy Person 44</a></li>
+<li><a href="/wiki/Candy_Person_45" title="Candy Person 45">Candy Person 45</a></li>
+<li><a href="/wiki/Candy_Person_50" title="Candy Person 50">Candy Person 50</a></li>
+<li><a href="/wiki/Candy_Person_53" title="Candy Person 53">Candy Person 53</a></li>
+<li><a href="/wiki/Candy_Person_56" title="Candy Person 56">Candy Person 56</a></li>
+<li><a href="/wiki/Candy_Person_57" title="Candy Person 57">Candy Person 57</a></li>
+<li><a href="/wiki/Candy_Person_59" title="Candy Person 59">Candy Person 59</a></li>
+<li><a href="/wiki/Candy_Person_59_(Male)" title="Candy Person 59 (Male)">Candy Person 59 (Male)</a></li>
+<li><a href="/wiki/Candy_Tavern_Bartender" title="Candy Tavern Bartender">Candy Tavern Bartender</a></li>
+<li><a href="/wiki/Candy_Tavern_People" title="Candy Tavern People">Candy Tavern People</a></li>
+<li><a href="/wiki/Canyon" title="Canyon">Canyon</a></li>
+<li><a href="/wiki/Captain_Banana_Guard" title="Captain Banana Guard">Captain Banana Guard</a></li>
+<li><a href="/wiki/Carl_the_Gem" title="Carl the Gem">Carl the Gem</a></li>
+<li><a href="/wiki/Carroll" title="Carroll">Carroll</a></li>
+<li><a href="/wiki/Castle_Staff" title="Castle Staff">Castle Staff</a></li>
+<li><a href="/wiki/Catapult_Guy" title="Catapult Guy">Catapult Guy</a></li>
+<li><a href="/wiki/User:Cathrynejhoy.rivera" title="User:Cathrynejhoy.rivera">User:Cathrynejhoy.rivera</a></li></ul></td>
+<td width="33.3%"><h3>C cont.</h3>
+<ul><li><a href="/wiki/Celina" title="Celina">Celina</a></li>
+<li><a href="/wiki/Centipede" title="Centipede">Centipede</a></li>
+<li><a href="/wiki/Template:Character" title="Template:Character">Template:Character</a></li>
+<li><a href="/wiki/Charlie" title="Charlie">Charlie</a></li>
+<li><a href="/wiki/Charlie_Mayor" title="Charlie Mayor">Charlie Mayor</a></li>
+<li><a href="/wiki/Cherry_Blossom_Ghost" title="Cherry Blossom Ghost">Cherry Blossom Ghost</a></li>
+<li><a href="/wiki/Cherry_Cream_Soda" title="Cherry Cream Soda">Cherry Cream Soda</a></li>
+<li><a href="/wiki/Cherub" title="Cherub">Cherub</a></li>
+<li><a href="/wiki/Chet" title="Chet">Chet</a></li>
+<li><a href="/wiki/Chipmunk" title="Chipmunk">Chipmunk</a></li>
+<li><a href="/wiki/Chocolate_Chip" title="Chocolate Chip">Chocolate Chip</a></li>
+<li><a href="/wiki/Choose_Bruce" title="Choose Bruce">Choose Bruce</a></li>
+<li><a href="/wiki/Choose_Goose" title="Choose Goose">Choose Goose</a></li>
+<li><a href="/wiki/Christopher_the_Honorary_Banana_Guard" title="Christopher the Honorary Banana Guard">Christopher the Honorary Banana Guard</a></li>
+<li><a href="/wiki/Chud" title="Chud">Chud</a></li>
+<li><a href="/wiki/Cinnamon_Bun" title="Cinnamon Bun">Cinnamon Bun</a></li>
+<li><a href="/wiki/Cinnamon_Bun_in_Dress" title="Cinnamon Bun in Dress">Cinnamon Bun in Dress</a></li>
+<li><a href="/wiki/Citadel_Guardian" title="Citadel Guardian">Citadel Guardian</a></li>
+<li><a href="/wiki/Clarence" title="Clarence">Clarence</a></li>
+<li><a href="/wiki/Clock_Face" title="Clock Face">Clock Face</a></li>
+<li><a href="/wiki/Clown_Nurse" title="Clown Nurse">Clown Nurse</a></li>
+<li><a href="/wiki/CMO" title="CMO">CMO</a></li>
+<li><a href="/wiki/Coal_Man" title="Coal Man">Coal Man</a></li>
+<li><a href="/wiki/Cobbler" title="Cobbler">Cobbler</a></li>
+<li><a href="/wiki/Colonel_Candy_Corn" title="Colonel Candy Corn">Colonel Candy Corn</a></li>
+<li><a href="/wiki/Commander_and_Private" title="Commander and Private">Commander and Private</a></li>
+<li><a href="/wiki/Cookie_Guy" title="Cookie Guy">Cookie Guy</a></li>
+<li><a href="/wiki/Cosmic_Owl" title="Cosmic Owl">Cosmic Owl</a></li>
+<li><a href="/wiki/Cotton_Candy_Princess" title="Cotton Candy Princess">Cotton Candy Princess</a></li>
+<li><a href="/wiki/Cow" title="Cow">Cow</a></li>
+<li><a href="/wiki/Cow_(Five_Short_Graybles)" title="Cow (Five Short Graybles)">Cow (Five Short Graybles)</a></li>
+<li><a href="/wiki/Crab_Demon" title="Crab Demon">Crab Demon</a></li>
+<li><a href="/wiki/Crab_Princess" title="Crab Princess">Crab Princess</a></li>
+<li><a href="/wiki/Crabbit_Familiar" title="Crabbit Familiar">Crabbit Familiar</a></li>
+<li><a href="/wiki/Cranky_Cookie" title="Cranky Cookie">Cranky Cookie</a></li>
+<li><a href="/wiki/Creepy_Finn_%26_Jake_robots" title="Creepy Finn &amp; Jake robots">Creepy Finn &amp; Jake robots</a></li>
+<li><a href="/wiki/Crocodile" title="Crocodile">Crocodile</a></li>
+<li><a href="/wiki/Crocodile_with_Party_Hat" title="Crocodile with Party Hat">Crocodile with Party Hat</a></li>
+<li><a href="/wiki/Crossbow_Guy" title="Crossbow Guy">Crossbow Guy</a></li>
+<li><a href="/wiki/Crunchy" title="Crunchy">Crunchy</a></li>
+<li><a href="/wiki/Crystal_Ants" title="Crystal Ants">Crystal Ants</a></li>
+<li><a href="/wiki/Crystal_Guardian" title="Crystal Guardian">Crystal Guardian</a></li>
+<li><a href="/wiki/Crystalline_Demon" title="Crystalline Demon">Crystalline Demon</a></li>
+<li><a href="/wiki/Cubby" title="Cubby">Cubby</a></li>
+<li><a href="/wiki/Cuber" title="Cuber">Cuber</a></li>
+<li><a href="/wiki/Cute_King" title="Cute King">Cute King</a></li>
+<li><a href="/wiki/Cyclo" title="Cyclo">Cyclo</a></li>
+<li><a href="/wiki/Cyclops" title="Cyclops">Cyclops</a></li></ul><h3>D</h3>
+<ul><li><span class="redirect-in-category"><a href="/wiki/Dad_the_Human" class="mw-redirect" title="Dad the Human">Dad the Human</a></span></li>
+<li><a href="/wiki/Darren" title="Darren">Darren</a></li>
+<li><a href="/wiki/Dead_Goblin" title="Dead Goblin">Dead Goblin</a></li>
+<li><a href="/wiki/User:Deadpool_The_Mercenary" title="User:Deadpool The Mercenary">User:Deadpool The Mercenary</a></li>
+<li><a href="/wiki/Death" title="Death">Death</a></li>
+<li><a href="/wiki/Demon_Cat" title="Demon Cat">Demon Cat</a></li>
+<li><a href="/wiki/Demon_Guard" title="Demon Guard">Demon Guard</a></li>
+<li><a href="/wiki/Desert_Princess" title="Desert Princess">Desert Princess</a></li>
+<li><a href="/wiki/Destiny_Gang" title="Destiny Gang">Destiny Gang</a></li>
+<li><a href="/wiki/Devil_Cake_Downers" title="Devil Cake Downers">Devil Cake Downers</a></li>
+<li><a href="/wiki/Dewey" title="Dewey">Dewey</a></li>
+<li><a href="/wiki/Dimension_Wizard" title="Dimension Wizard">Dimension Wizard</a></li>
+<li><a href="/wiki/Dimple_Plant_Monster" title="Dimple Plant Monster">Dimple Plant Monster</a></li>
+<li><a href="/wiki/Disguised_banana_guard" title="Disguised banana guard">Disguised banana guard</a></li>
+<li><a href="/wiki/DMO" title="DMO">DMO</a></li>
+<li><a href="/wiki/Doctor_Prince" title="Doctor Prince">Doctor Prince</a></li>
+<li><a href="/wiki/Doctor_Princess" title="Doctor Princess">Doctor Princess</a></li>
+<li><a href="/wiki/Dolphin" title="Dolphin">Dolphin</a></li></ul></td>
+</tr></table></div>(previous 200) (<a href="/wiki/Category:Characters?pagefrom=Donny+%28character%29#mw-pages" title="Category:Characters">next 200</a>)
+</div></div><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://adventuretime.wikia.com/wiki/Category:Characters?oldid=589941">http://adventuretime.wikia.com/wiki/Category:Characters?oldid=589941</a>"</div>
+
+				</div>
+
+															<nav class="WikiaArticleCategories CategorySelect articlePage" id="WikiaArticleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Content" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Content" title="Category:Content">Content</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite-small edit" title=""></li>
+		<li class="tool removeCategory"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite-small delete" title=""></li>
+	</ul>
+</li>					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+					<div id="WikiaRail" class="WikiaRail">
+
+	
+<form id="WikiaSearch" class="WikiaSearch" action="http://adventuretime.wikia.com/wiki/Special:Search" method="get">
+	<input type="text" name="search" placeholder="Search this wiki" autocomplete="off" accesskey="f" value="">
+	<input type="hidden" name="fulltext" value="Search">
+			<input type="hidden" name="ns0" value="1">
+			<input type="hidden" name="ns14" value="1">
+		<input type="submit">
+	<button class="wikia-button"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite search" height="17" width="21"></button>
+</form>
+<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+			<div class="loading"></div>
+	
+</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+	<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/24357" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+</footer>
+				<footer class="global-footer row">
+	<nav>
+		<h1>Wikia Inc Navigation</h1>
+		<div class="branding black">
+			<div class="wordmark">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="wordmark3">
+			</div>
+							<div class="hub"><a class="hub3" href="http://www.wikia.com/Entertainment">[ Entertainment ]</a></div>
+					</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://www.community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a href="http://www.wikia.com/Licensing" title="homepage:Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Call of Duty Advanced Warfare Guide&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Dwl4P&quot;},{&quot;text&quot;:&quot;Ready for Call of Duty Advanced Warfare?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Dwl4P&quot;},{&quot;text&quot;:&quot;Call of Duty Advanced Warfare Guide&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Dwl4P&quot;},{&quot;text&quot;:&quot;Ready for Call of Duty Advanced Warfare?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Dwl4P&quot;},{&quot;text&quot;:&quot;Call of Duty Advanced Warfare Guide&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Dwl4P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["GPT_FLUSH",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div id="INVISIBLE_1" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["INVISIBLE_1",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div id="INVISIBLE_2" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["INVISIBLE_2",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH",null,"AdEngine2"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1415298937/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"adventuretimewithfinnandjake","kv_article_id":2322,"kv_wpage":"Characters","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=18-24;age=18-34;age=teen;age=kids;gnre=cartoon;gnre=comedy;media=tv;tv=cn","kv_domain":"adventuretime.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Characters","wgTitle":"Characters","wgCurRevisionId":589941,"wgArticleId":2322,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Content"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Category:Characters","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgSearchNamespaces":[0,14],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img2.wikia.nocookie.net/__cb26/adventuretimewithfinnandjake/images/5/50/Wiki-background","background-image-height":"700","background-image-width":"1900","color-body":"#83c0e6","color-body-middle":"#83c0e6","color-buttons":"#006cb0","color-header":"#2878b6","color-links":"#006cb0","color-page":"#ffffff","page-opacity":"92","widthType":2},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Adventure Time with Finn and Jake Wiki","wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1415298937/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1415298937/common","wgSitename":"Adventure Time Wiki","wgMWrevId":false,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableUserLoginExt":true,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1415298937/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","fbAppId":"112328095453510","fbScript":"http://connect.facebook.net/en_US/all.js","fbUseMarkup":true,"fbLogo":true,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Category:Characters","fbReturnToTitle":"Category:Characters","fbScriptLangCode":"en_US","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Characters"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":0,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-24357":0,"founderemails-edits-24357":0,"founderemails-views-digest-24357":0,"founderemails-complete-digest-24357":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: adventuretimewithfinnandjake:resourceloader:filter:minify-js:7:53e37e896c0e42b4ac821cef47e01288 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","ext.categoryTree","mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1415298937/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,adengine2_spotlights_js,adengine2_top_in_content_boxad_js,oasis_shared_js,global_header_js,oasis_anon_js,liftium_ads_js,liftium_ads_extra_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,global_footer_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1415298937.0.73280"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1415298937%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>if (JSSnippetsStack.length) $.getScript('http://slot1.images4.wikia.nocookie.net/__am/1415298937/one/minify%3D1/extensions/wikia/JSSnippets/js/JSSnippets.js');</script><!-- Facebook integration -->
+<div id="fb-root"></div><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/CategoryGalleries\/css\/CategoryGalleries.scss","extensions\/wikia\/CategoryGalleries\/css\/CategoryGalleries.IE.scss","skins\/oasis\/css\/core\/AccountNavigation.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>
