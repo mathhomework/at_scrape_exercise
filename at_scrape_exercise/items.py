@@ -17,3 +17,4 @@ class AtScrapeExerciseItem(scrapy.Item):
 
 class AT_Char_Item(Item):
     name = Field()
+    link = Field()
