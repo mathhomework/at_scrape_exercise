@@ -18,3 +18,18 @@ class AtScrapeExerciseItem(scrapy.Item):
 class AT_Char_Item(Item):
     name = Field()
     link = Field()
+
+# exceptions to be aware of
+# missing "Episodes featured" bio means you
+# need to check "Introduced in" or "Latest appearance"
+# Exclude "Mentioned In" for "Episodes featured"
+
+
+
+class AT_Char_Detail_Item(Item):
+    name = Field()
+    sex = Field()
+    species = Field()
+    link = Field()
+    appearances = Field()
+    image = Field()
