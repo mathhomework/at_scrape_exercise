@@ -57,9 +57,10 @@ class AT_Char_Spider_Detail(Spider):
         print info
         print "**********************************"
 
-        # species = sel.xpath("(//table[@class='infobox']/tr[5]/td[2]/a/text()").extract()
+        episodes = sel.xpath("//div[@id='mw-content-text']/ul[1]/li/a/text()").extract()
         image = sel.xpath("//table[@class='infobox']/tr/td/a/img/@data-src").extract()
-        # name = sel.xpath("//table[@class='infobox']/tr/th/font/text()").extract()
-        # sex = sel.xpath("//table[@class='infobox]/tr[4]/td[2]/text()").extract()[0][1:-1]
-
+        # species
+        # name
+        # sex
+        # first_appearance
         # print link, image, categories,info
