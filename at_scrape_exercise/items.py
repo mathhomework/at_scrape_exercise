@@ -33,3 +33,4 @@ class AT_Char_Detail_Item(Item):
     link = Field()
     appearances = Field()
     image = Field()
+    relatives = Field()
