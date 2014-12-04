@@ -26,8 +26,8 @@
       <file leaf-file-name="at_char_spider.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/at_scrape_exercise/spiders/at_char_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45346063" vertical-offset="1140" max-vertical-offset="2580">
-              <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.09307876" vertical-offset="1042" max-vertical-offset="1940">
+              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -1097,8 +1097,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/at_scrape_exercise/spiders/at_char_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45346063" vertical-offset="1140" max-vertical-offset="2580">
-          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.09307876" vertical-offset="1042" max-vertical-offset="1940">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
