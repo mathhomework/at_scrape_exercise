@@ -1,6 +1,7 @@
 from scrapy.selector import Selector
 from scrapy.spider import Spider
 from at_scrape_exercise.items import AT_Char_Item
+import re
 
 
 class AT_Char_Spider(Spider):
@@ -42,9 +43,9 @@ class AT_Char_Spider_Detail(Spider):
     # start_urls = [url.strip() for url in characters.readlines()]
     start_urls = [
         # "http://adventuretime.wikia.com/wiki/Doctor_Princess",
-        # "http://adventuretime.wikia.com/wiki/Finn",
-        # "http://adventuretime.wikia.com/wiki/Marceline",
-        # "http://adventuretime.wikia.com/wiki/Breakfast_Princess",
+        "http://adventuretime.wikia.com/wiki/Finn",
+        "http://adventuretime.wikia.com/wiki/Marceline",
+        "http://adventuretime.wikia.com/wiki/Breakfast_Princess",
         "http://adventuretime.wikia.com/wiki/Abe_Lincoln",
     ]
 
@@ -59,19 +60,27 @@ class AT_Char_Spider_Detail(Spider):
         # info = [x for x in info if len(x) > 2]
 
 
-        species = data.xpath("tr/td/a[../../td/b/text()='Species']/text()|tr[td/b/text()='Species']/td/text()").extract()
+        species = data.xpath("tr/td/a[../../td/b/text()='Species']/text()|tr[td/b/text()='Species']/td/text()[normalize-space()]").extract()
         print species
         # returns [u'Vampire', u'Demon']
 
-        occupation = data.xpath("tr[td/b[contains(.,'Occupation')]]/td[position()>1]/text()").extract()
+        # the occupation below does not take into account a tags... so Marceline's Henchmen would just be something like 's henchmen
+        # occupation = data.xpath("tr[td/b[contains(.,'Occupation')]]/td[position()>1]/text()").extract()
+        # occupation = data.xpath("tr[td/b[contains(.,'Occupation')]]/td[position()>1]/descendant::text()").extract()
         # this is more specific than the below because it does not matter where the extra space after occupation is
         # occupation = data.xpath("tr[td/b/text()='Occupation ']/td[position()>1]/text()").extract()
-        print occupation
+        occupation = data.xpath("tr[td/b[contains(.,'Occupation')]]/td[position()>1]").extract()[0]
 
-        sex = data.xpath("tr[td/b/text()='Sex']/td[position()>1]/text()").extract()
+        print "***********OCCUPATION******************"
+        for x in str(occupation).split("<br>"):
+            y = re.sub('<[^>]*>', '', re.sub('\(.*?\)', '', x)).strip().rstrip(",")
+            print y
+        print "**********END OCCUPATION**************"
+
+        sex = data.xpath("normalize-space(tr[td/b/text()='Sex']/td[position()>1]/text())").extract()
         print sex
 
-        name = data.xpath("tr[td/b/text()='Name']/td[position()>1]/text()").extract()
+        name = data.xpath("normalize-space(tr[td/b/text()='Name']/td[position()>1]/text())").extract()
         print name
 
         relatives = data.xpath("tr[td/b/text()='Relatives']/td[position()>1]/a/text()").extract()
